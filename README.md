@@ -1,23 +1,34 @@
-# Awesome Digital History [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Digital History of India[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
+[<img src="android-chrome-512x512.png" align="right" width="100">](https://micahchoo.github.io/awesome-digital-history-South-Asia/)
 
-> Find primary sources online and learn how to research history digitally.
+> History from digital spaces, includes archives, blogs, newspaper clippings etc., video archives 
 
-Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the western hemisphere and the 19th and 20th centuries. Courses and learning tools to explore history digitally.
+Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the South Asian Subcontinent and the 19th and 20th centuries. Courses and learning tools to explore history digitally.
 
 ## Contents
 
 - [Archives and primary sources](#archives-and-primary-sources)
-  - [Austria](#austria)
-  - [Europe](#europe)
-  - [France](#france)
-  - [Germany](#germany)
-  - [Global](#global)
-  - [Great Britain](#great-britain)
-  - [Netherlands](#netherlands)
-  - [North America](#north-america)
-  - [Switzerland](#switzerland)
+  - [The Subcontinent](#Subcontinent)
+  - [Bangladesh](#bangladesh)
+  - [Nepal](#nepal)
+  - [Pakistan](#pakistan)
+  - [India](#india)
+	  - [Lakshwadeep](#lakshwadeep)
+	  - [North-East India](#north-east-india)
+			- Arunachal Pradesh(#arunachal-pradesh)
+			- Assam(#assam)
+			- Manipur(#manipur)
+			- Meghalaya(#meghalaya)
+			- Mizoram(#mizoram)
+			- Nagaland(#nagaland)
+			- Tripura(#tripura)
+			- Sikkim(#sikkim)
+	  - [Andaman and Nicobar Islands](#andaman-and-Nicobar-Islands)
+  - [Bhutan](#bhutan)
+  - [Afghanistan](#Afghanistan)
+  - [Maldives](#maldives)
+  - [Sri Lanka](#sri-lanka)
 - [Learning](#learning)
 - [More Awesome](#more-awesome)
 - [Contribute](#contribute)
