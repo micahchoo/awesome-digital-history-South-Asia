@@ -48,10 +48,8 @@ sources:
 - [1947partitionarchive](https://www.1947partitionarchive.org/)
 - [Tasveer Ghar: Digital Archive of South Asian Popular Visual Culture](http://www.tasveergharindia.net)/ - |Tasveer Ghar is a trans-national virtual “home” for collecting, digitizing, and documenting various materials produced by South Asia’s exciting popular visual sphere including posters, calendar art, pilgrimage maps and paraphernalia, cinema hoardings, advertisements, and other forms of street and bazaar art.
 - [ South Asia Open Archives (SAOA)](https://www.jstor.org/site/saoa) - | South Asia Open Archives is a free open-access resource for research and teaching - a rich and growing curated collection of key historical and contemporary sources in arts, humanities and social sciences, from and about South Asia
-- [South Asian American Digital Archive](https://www.saada.org/)  
-| This archive principally offers material on South Asian migrants who have made their homes in the United States
-- [South Asian Newspapers](https://gpa.eastview.com/crl/san/)  
-| This is a digitized, partial archive of nine newspapers from the subcontinent, freely accessible. Most cover the 1960s and 1970s period, but there is one from the mid-19th century and another from the early 20th century. 
+- [South Asian American Digital Archive](https://www.saada.org/)  | This archive principally offers material on South Asian migrants who have made their homes in the United States
+- [South Asian Newspapers](https://gpa.eastview.com/crl/san/)  | This is a digitized, partial archive of nine newspapers from the subcontinent, freely accessible. Most cover the 1960s and 1970s period, but there is one from the mid-19th century and another from the early 20th century. 
 - [The South Asian Literary Recordings Project](https://www.loc.gov/acq/ovop/delhi/salrp/index.html) | Launched in April 2000, to record the voices of South Asian authors for the Library of Congress' Archive of Recorded World Literature, the project has captured the readings of prominent South Asian poets, novelists, and playwrights. The authors recorded so far represent more than fifteen of the languages of India, Nepal, Pakistan, Sri Lanka and Bangladesh.
 - [E-Books: Full-Text Online Books on South Asia](http://library.columbia.edu/libraries/global/southasia.html) | (SARAI)
 - [LUMS Digital Archive](https://archive.lums.edu.pk/) | The LUMS Digital Archive is a research repository that aims at collecting, cataloging and preserving rare material (books, pamphlets, newspapers and other items) of historical significance and making them available to researchers.
@@ -70,13 +68,16 @@ sources:
 
 ### Tibet
 - [FID4SA-Repository - Tibet](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L18/) | FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+
 ---
+
 ### Pakistan
 - [The Citizen Archive of Pakistan](https://www.citizensarchive.org/)
 - [FID4SA-Repository - Pakistan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L16/) |  FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
 - [National Archives of Pakistan](https://archives.gov.pk/Catalogs.php) |  An effort is being made to publish catalogs and lists of whatever source material in National Archives of Pakistan. An endeavor is being made to collect and preserve source material wherever available through purchases/donations with a view to place it eventually in its permanent house in Islamabad i.e. National Archives of Pakistan
 
 ---
+
 ### India
 - [QAMRA](https://qamra.in/1462-2/) | The Queer Archive for Memory Reflection and Activism is a multimedia archival project which aims to chronicle and preserve the stories of communities marginalised on the basis of gender and sexuality in India.
 - [Kosh ](http://kosh.tattle.co.in/) |  Kosh is the searchable archive of multi-media content relevant to misinformation and social media in India. It surfaces data collected by Tattle as well as that opened by other researchers.
@@ -101,10 +102,13 @@ sources:
 - [https://www.bl.uk/early-indian-printed-books](https://www.bl.uk/early-indian-printed-books)  | Collection of cookery books,almanacs, erotica\]
 - [community cookbooks from across India](https://communitycookbooks.wixsite.com/website)
 - [https://oralhistorynarmada.in/](https://oralhistorynarmada.in/) | on Narmada Bachao Andolan
+
 ---
+
 ### Bhutan
 - [FID4SA-Repository - Bhutan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) |  The National Library of Bhutan has the goal that all Bhutanese, wherever they are, will have access to both Bhutan's documentary heritage and to the information resources of the world.
 - [The National Library of Bhutan](http://220.158.236.131/) |  FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+
 ---
 
 ### Afghanistan
@@ -113,10 +117,12 @@ sources:
 - [Afghanistan Digital Library](http://afghanistandl.nyu.edu/no_javascript.html) | The immediate objective of the Afghanistan Digital Library is to retrieve and restore the first sixty years of Afghanistan’s published cultural heritage.
 - [Preserving and Creating Access to Unique Afghan Records](http://www.afghandata.org/) |  The collection contains information related to history, social, economic, and cultural heritage of Afghanistan in Pashto and Dari. Content is continuously updated with over 2,300 titles (about 236,000 pages) currently available (April 2012).
 - [FID4SA-Repository - Afghanistan](https://www.google.com/search?q=Afghanistan&hl=en&domain=archiv.ub.uni-heidelberg.de%2Fartdok&sitesearch=archiv.ub.uni-heidelberg.de%2Fartdok&ie=utf-8&oe=utf-8&btnG=Search) |  FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+
 ---
 
 ### Maldives
 - [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L14/) |  FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+
 ---
 
 ### Sri Lanka
