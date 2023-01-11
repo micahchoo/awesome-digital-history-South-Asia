@@ -36,7 +36,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 sources: 
 - https://www.histecon.magd.cam.ac.uk/archives-asia/guide.html
 - https://milli.link
+- https://southasianculture.wordpress.com/
 
+
+---
 ### The Subcontinent
 
 - [Nuseum of Art and Photography](https://map.cumulus.co.in/client/map/collection#/)MAP is custodian to a growing collection of over 18,000 works of art, predominantly from South Asia and dating from the 10th century to the present.
@@ -51,9 +54,12 @@ This archive principally offers material on South Asian migrants who have made t
 - [South Asian Newspapers](https://gpa.eastview.com/crl/san/)  
 This is a digitized, partial archive of nine newspapers from the subcontinent, freely accessible. Most cover the 1960s and 1970s period, but there is one from the mid-19th century and another from the early 20th century. 
 - [The South Asian Literary Recordings Project](https://www.loc.gov/acq/ovop/delhi/salrp/index.html)  Launched in April 2000, to record the voices of South Asian authors for the Library of Congress' Archive of Recorded World Literature, the project has captured the readings of prominent South Asian poets, novelists, and playwrights. The authors recorded so far represent more than fifteen of the languages of India, Nepal, Pakistan, Sri Lanka and Bangladesh.
-- -   [E-Books: Full-Text Online Books on South Asia](http://www.columbia.edu/cu/lweb/indiv/southasia/cuvl/ebooks.html) (SARAI)
+- [E-Books: Full-Text Online Books on South Asia](http://www.columbia.edu/cu/lweb/indiv/southasia/cuvl/ebooks.html) (SARAI)
+- [LUMS Digital Archive](https://archive.lums.edu.pk/) The LUMS Digital Archive is a research repository that aims at collecting, cataloging and preserving rare material (books, pamphlets, newspapers and other items) of historical significance and making them available to researchers.
+
 
 ### Bangladesh
+- [ National Archives of Bangladesh ](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/-) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [Bangladesh Genocide Archive](http://www.genocidebangladesh.org) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
 
@@ -70,6 +76,9 @@ This is a digitized, partial archive of nine newspapers from the subcontinent, f
 - [The Citizen Archive of Pakistan](http://www.citizensarchive.org)/
 - [Panjab Digital Library](http://panjabdigilib.org/webuser/searches/mainpage.jsp)  This archive is dedicated to holdings about the Panjab region of Northern India and Pakistan.
 - - [FID4SA-Repository - Pakistan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L16/) FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+- [National Archives of Pakistan](https://archives.gov.pk/Catalogs.php) An effort is being made to publish catalogs and lists of whatever source material in National Archives of Pakistan. An endeavor is being made to collect and preserve source material wherever available through purchases/donations with a view to place it eventually in its permanent house in Islamabad i.e. National Archives of Pakistan
+
+
 - 
 ### India
 - [QAMRA](https://qamra.in/1462-2/)The Queer Archive for Memory Reflection and Activism is a multimedia archival project which aims to chronicle and preserve the stories of communities marginalised on the basis of gender and sexuality in India.
@@ -93,11 +102,15 @@ Kosh is the searchable archive of multi-media content relevant to misinformation
 - [Amrita Bazar Patrika (Calcutta, 1870-1949)](https://eap.bl.uk/collection/EAP262-1-1)  English-language newspaper hosted by Endangered Archives Project.
 - [Jugantar Patrika (Calcutta, 1937-1980)](https://eap.bl.uk/collection/EAP262-1-2)  Bengali-language newspaper hosted by Endangered Archives Project.
 - [Collections from India - EAP](http://eap.bl.uk/search?f%5B0%5D=places%3AIndia%2C%20Asia&f%5B1%5D=type%3ACollection) The Endangered Archives Programme (EAP) seeks to preserve cultural heritage and make it available to as wide an audience as possible.
-
+- [https://www.bl.uk/early-indian-printed-books](https://www.bl.uk/early-indian-printed-books) \[Collection of cookery books,almanacs, erotica\]
+- [community cookbooks from across India](https://communitycookbooks.wixsite.com/website)
+- [https://oralhistorynarmada.in/](https://oralhistorynarmada.in/) \[on Narmada Bachao Andolan\]
 
 ### Bhutan
-- [FID4SA-Repository - Bhutan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
-- 
+- [FID4SA-Repository - Bhutan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) The National Library of Bhutan has the goal that all Bhutanese, wherever they are, will have access to both Bhutan's documentary heritage and to the information resources of the world.
+- [The National Library of Bhutan](http://220.158.236.131/) FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+
+
 ### Afghanistan
 - [Digitized Afghanistan Materials in English from the Arthur Paul Afghanistan Collection](https://digitalcommons.unl.edu/afghanenglish) The UNO Criss Library holds the Arthur Paul Afghanistan Collection, one of the largest collections of Afghan primary and secondary materials outside of the country. It contains over 20,000 titles in more than 20 languages, including Dari, Pashto, and English.
 - [Archives for the Study of Afghanistan ](https://hazine.info/archives-and-libraries-for-the-study-of-afghanistan-ebtikar/)This is a list of physical and digital archives or scholars of Afghanistan.
@@ -113,7 +126,7 @@ Kosh is the searchable archive of multi-media content relevant to misinformation
 ### Sri Lanka
 - [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
 
-
+---
 
 
 ## Learning
@@ -139,7 +152,9 @@ Kosh is the searchable archive of multi-media content relevant to misinformation
 - [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
-- [Tempopedia](https://tempopedia.org/) - Digital History Directory.
+- [Tempopedia](https://tempopedia.org/) - Digital History Directory.4
+- [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection)
+
 
 ## Contribute
 
