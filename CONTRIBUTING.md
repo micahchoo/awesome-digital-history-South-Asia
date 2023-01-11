@@ -14,7 +14,7 @@ project you agree to abide by its terms.
 
 ---
 
-If you are proficient with GitHub, follow the instructions below. Otherwise open an [issue](https://github.com/maehr/awesome-digital-history/issues/new/choose).
+If you are proficient with GitHub, follow the instructions below. Otherwise open an [issue](https://github.com/micahchoo/awesome-digital-history-South-Asia/issues/new/choose).
 
 ---
 
@@ -25,7 +25,8 @@ _Contributors, make sure that_:
 - a **short pitch** is included in the pull-request description,
 - the table of contents has been updated (if a section is added / removed),
 - the contents are sorted **alphabetically**,
-- The addition you proposed is NOT part of [everything that did not make it into the list](https://github.com/maehr/awesome-digital-history/wiki).
+
+
 
 Thank you for your suggestions!
 

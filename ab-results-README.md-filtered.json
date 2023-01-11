@@ -1,0 +1,157 @@
+[
+  {
+    "loc": 1,
+    "status": 302,
+    "link": "https://awesome.re",
+    "redirect": "https://github.com/sindresorhus/awesome#readme",
+    "error": ""
+  },
+  {
+    "loc": 38,
+    "status": 301,
+    "link": "https://milli.link",
+    "redirect": "https://www.milli.link/",
+    "error": ""
+  },
+  {
+    "loc": 47,
+    "status": 301,
+    "link": "http://www.1947partitionarchive.org",
+    "redirect": "https://www.1947partitionarchive.org/",
+    "error": ""
+  },
+  {
+    "loc": 49,
+    "status": 403,
+    "link": "https://www.jstor.org/site/saoa",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 50,
+    "status": -1,
+    "link": "http://www.panjabdiglib.org",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.panjabdiglib.org:80 (getaddrinfo: No such host is known. )"
+  },
+  {
+    "loc": 57,
+    "status": 301,
+    "link": "http://www.columbia.edu/cu/lweb/indiv/southasia/cuvl/ebooks.html",
+    "redirect": "http://library.columbia.edu/libraries/global/southasia.html",
+    "error": ""
+  },
+  {
+    "loc": 63,
+    "status": 301,
+    "link": "http://www.genocidebangladesh.org",
+    "redirect": "https://www.genocidebangladesh.org/",
+    "error": ""
+  },
+  {
+    "loc": 76,
+    "status": 301,
+    "link": "http://www.citizensarchive.org",
+    "redirect": "https://www.citizensarchive.org/",
+    "error": ""
+  },
+  {
+    "loc": 77,
+    "status": -1,
+    "link": "http://panjabdigilib.org/webuser/searches/mainpage.jsp",
+    "redirect": "",
+    "error": "An existing connection was forcibly closed by the remote host."
+  },
+  {
+    "loc": 96,
+    "status": 301,
+    "link": "http://www.indianmemoryproject.com",
+    "redirect": "https://www.indianmemoryproject.com/",
+    "error": ""
+  },
+  {
+    "loc": 97,
+    "status": 301,
+    "link": "http://www.rarebooksocietyofindia.org",
+    "redirect": "https://www.rarebooksocietyofindia.org/",
+    "error": ""
+  },
+  {
+    "loc": 98,
+    "status": 301,
+    "link": "http://archiveofindianmusic.org/",
+    "redirect": "https://archiveofindianmusic.org/",
+    "error": ""
+  },
+  {
+    "loc": 101,
+    "status": 301,
+    "link": "http://indianliberals.in/periodicals",
+    "redirect": "http://indianliberals.in/periodicals/",
+    "error": ""
+  },
+  {
+    "loc": 115,
+    "status": 301,
+    "link": "https://digitalcommons.unl.edu/afghanenglish",
+    "redirect": "https://digitalcommons.unl.edu/afghanenglish/",
+    "error": ""
+  },
+  {
+    "loc": 118,
+    "status": 301,
+    "link": "http://www.afghandata.org",
+    "redirect": "https://afghandata.org/",
+    "error": ""
+  },
+  {
+    "loc": 136,
+    "status": 301,
+    "link": "http://chnm.gmu.edu/digitalhistory/",
+    "redirect": "https://chnm.gmu.edu/digitalhistory/",
+    "error": ""
+  },
+  {
+    "loc": 151,
+    "status": 301,
+    "link": "https://github.com/fasouto/awesome-dataviz#readme",
+    "redirect": "https://github.com/javierluraschi/awesome-dataviz",
+    "error": ""
+  },
+  {
+    "loc": 152,
+    "status": 301,
+    "link": "https://dh-tech.github.io/awesome-digital-humanities#readme",
+    "redirect": "https://dh-tech.github.io/awesome-digital-humanities/",
+    "error": ""
+  },
+  {
+    "loc": 156,
+    "status": 301,
+    "link": "https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection",
+    "redirect": "https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/",
+    "error": ""
+  },
+  {
+    "loc": 161,
+    "status": 404,
+    "link": "https://micahchoo.github.io/awesome-digital-history-South-Asia/blob/main/CONTRIBUTING.md",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 70,
+    "link": "https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 105,
+    "link": "https://www.bl.uk/early-indian-printed-books",
+    "error": "Dupe"
+  },
+  {
+    "loc": 107,
+    "link": "https://oralhistorynarmada.in/",
+    "error": "Dupe"
+  }
+]

@@ -42,7 +42,7 @@ sources:
 ---
 ### The Subcontinent
 
-- [Nuseum of Art and Photography](https://map.cumulus.co.in/client/map/collection#/)MAP is custodian to a growing collection of over 18,000 works of art, predominantly from South Asia and dating from the 10th century to the present.
+- [Museum of Art and Photography](https://map.cumulus.co.in/client/map/collection#/)MAP is custodian to a growing collection of over 18,000 works of art, predominantly from South Asia and dating from the 10th century to the present.
 - [The Polis Project](https://www.thepolisproject.com/read-stories/)Our work sheds light on the rise of authoritarianism especially in democracies and focuses on issues of racial, class and caste injustice, Islamophobia and State oppression around the world.
 - [1947partitionarchive](http://www.1947partitionarchive.org)/
 - [Tasveer Ghar: Digital Archive of South Asian Popular Visual Culture](http://www.tasveergharindia.net)/ - Tasveer Ghar is a trans-national virtual “home” for collecting, digitizing, and documenting various materials produced by South Asia’s exciting popular visual sphere including posters, calendar art, pilgrimage maps and paraphernalia, cinema hoardings, advertisements, and other forms of street and bazaar art.
@@ -158,4 +158,4 @@ Kosh is the searchable archive of multi-media content relevant to misinformation
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md](https://micahchoo.github.io/awesome-digital-history-South-Asia/blob/main/CONTRIBUTING.md) first.
