@@ -29,6 +29,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
   - [Afghanistan](#Afghanistan)
   - [Maldives](#maldives)
   - [Sri Lanka](#sri-lanka)
+
+- [<Digital> History](#digital-history)
+
+
 - [Learning](#learning)
 - [More Awesome](#more-awesome)
 - [Contribute](#contribute)
@@ -59,6 +63,7 @@ sources:
 - [ National Archives of Bangladesh ](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/-) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [Bangladesh Genocide Archive](https://www.genocidebangladesh.org/) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) | FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
+- [The Daily Star](https://archive.thedailystar.net/)Newspaper from 2003
 
 
 ### Nepal
@@ -130,6 +135,23 @@ sources:
 
 ---
 
+
+## Digital History
+- [Someone one found remanants of the very early internet in India](https://twitter.com/prstb/status/1550060972693495808?t=ZaqfPvA2MdUBmgOQMBCyAA&s=19)
+- [Rezwan's blogs from 2003 - Bangladesh](https://web.archive.org/web/20050112192335/http://rezwanul.blogspot.com/2003_04_01_rezwanul_archive.html)
+- [Manzoor's Homepage for Bangladeshis - 1995 - 1999](https://web.archive.org/web/19961230115637/http://www.bangladesh.net/)
+- [BOL forums 1999](https://web.archive.org/web/20010503200538/http://www.bol-online.com/discus/)
+- [Where is Kalpana Chakma](https://web.archive.org/web/20010218234552/http://www.meghbarta.net/2000/june/minor.html#kalpana)
+- [MINORITY- the aliens in own homeland & mirror of the past century](https://web.archive.org/web/20010202150100/http://www.meghbarta.net/2000/january/lminority.html)
+- [Pakistaniat blog - 2006](https://web.archive.org/web/20061027215013/http://pakistaniat.com/2006/06/12/picture-of-the-day-imagining-pakistan/)
+- [BHUTAN : Land of the Thunder Dragon - Blog 2010](https://web.archive.org/web/20100116201919/http://yesheydorji.blogspot.com/)
+- [Bhutan Post 2002](https://web.archive.org/web/20021201062754/http://www.bhutanpost.com/)
+- [Free Tibet- 1996](https://web.archive.org/web/19970326222701/http://www.freetibet.org/info.htm)
+- [Tibetan support for the new Panchen Lama forces China to make plans to set up a rival candidate - 1997](https://web.archive.org/web/19970220121717/http://tibet.com/release.htm)
+- [Secular Maldives - 2007](https://secularmaldives.blogspot.com/search?updated-min=2007-01-01T00%3A00%3A00%2B05%3A00&updated-max=2008-01-01T00%3A00%3A00%2B05%3A00&max-results=9)
+- [Nagaland Post](https://web.archive.org/web/20060712024447/http://nagalandpost.com/regional.asp)
+
+---
 
 ## Learning
 - [Collaboration Adventures with Primary Sources: Exploring Creative and Digital Outputs](https://jitp.commons.gc.cuny.edu/collaboration-adventures-with-primary-sources-exploring-creative-and-digital-outputs/) | a series of case studies, the authors will share how they experimented with new ways to present research using primary sources through social media, zines, data sets, and visualizations: what we call “creative outputs.” 
