@@ -30,7 +30,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
   - [Maldives](#maldives)
   - [Sri Lanka](#sri-lanka)
 
-- [<Digital> History](#digital-history)
+- [Digital History](#digital-history)
 
 
 - [Learning](#learning)
