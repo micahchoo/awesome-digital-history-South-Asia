@@ -63,7 +63,7 @@ sources:
 - [ National Archives of Bangladesh ](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/-) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [Bangladesh Genocide Archive](https://www.genocidebangladesh.org/) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) | FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
-- [The Daily Star](https://archive.thedailystar.net/)Newspaper from 2003
+- [The Daily Star](https://archive.thedailystar.net/)|Newspaper from 2003
 
 
 ### Nepal
@@ -150,6 +150,7 @@ sources:
 - [Tibetan support for the new Panchen Lama forces China to make plans to set up a rival candidate - 1997](https://web.archive.org/web/19970220121717/http://tibet.com/release.htm)
 - [Secular Maldives - 2007](https://secularmaldives.blogspot.com/search?updated-min=2007-01-01T00%3A00%3A00%2B05%3A00&updated-max=2008-01-01T00%3A00%3A00%2B05%3A00&max-results=9)
 - [Nagaland Post](https://web.archive.org/web/20060712024447/http://nagalandpost.com/regional.asp)
+- [Letters to the Internet](https://www.dearinternet.in/letterstotheinternet)
 
 ---
 
