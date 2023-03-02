@@ -25,12 +25,13 @@ Many countries in South Asia are still in the process of digitizing their physic
    - Provide descriptions, metadata, or translations for existing archives or sources.
    - Help us identify gaps in the existing archives or sources and suggest ways to fill them.
 
-## Contributing to the history of the digital in South Asia
+## Contributing to the "history of the digital" in South Asia
 
-The internet proliferation in South Asia happened relatively recently, and the history of the digital in this region is still being written. If you're interested in contributing to this aspect of our project, here are some ways you can help:
+The internet proliferation in South Asia happened relatively recently, and the "history of the digital" in this region is still being written. If you're interested in contributing to this aspect of our project, here are some ways you can help:
 
    - Share your own experiences or insights on the history of the digital in South Asia.
    - Help us research and document key events, trends, and figures in this history.
+   - Old forgotten forums to peruse through
    - Suggest areas or topics that we should focus on to provide a more comprehensive picture of the digital in South Asia.
 
 ## Contributing to the long-term vision
