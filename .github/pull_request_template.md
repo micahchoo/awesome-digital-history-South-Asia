@@ -1,13 +1,14 @@
-Add / Remove / Edit {entry name} to/from the "{section name}" section.
+# This is the description for the change
 
-**Short pitch**
+## One line that describes the change (for eg.)
+- Add / Remove / Edit {entry name} to/from the "{section name}" section.
 
-Describe why this change is made. Alternatively, refer to existing issues if
-any. You could try to answer:
+## **Your short pitch for this change goes here. Just 2-3 sentences will do.**
 
-- Why do / don't you find this tool awesome?
-- How do you use this tool in your workflow?
-- What advantages / disadvantages does it have compared to {another tool}?
+### You can make a change/comment or suggestion that addresses any of these or the website itself
+   - The long-term vision of creating a comprehensive digital archive and history of the digital in South Asia.
+   - The history of the digital in South Asia, including any gaps in existing archives or sources.
+   - The creation and improvement of digital archives in South Asia.
 
 ## Checklist
 
