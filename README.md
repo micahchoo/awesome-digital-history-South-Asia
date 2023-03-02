@@ -1,10 +1,3 @@
----
-
-title: Awesome Digital History of South Asia
-created: 2023-03-02T12:39:55-08:00
-updated: 2023-03-02T12:50:02-08:00
----
-
 # Awesome Digital History of South Asia
 
 [W-I-P] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
