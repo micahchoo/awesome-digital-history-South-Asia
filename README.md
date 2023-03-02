@@ -106,7 +106,7 @@ Sources:
 - [Living Lightly](https://livinglightly.in/) - Living Lightly ~ Journeys with Pastoralists is the first curated exhibition on pastoralism in India, covering the land, lives and livelihoods of Indian pastoralists. It captures their remarkable history of mobility, the ecosystems that nurture their life-worlds, their culture, science, art, politics, spiritual moorings, the economics and challenges of herding.
 - [INDIAN MEMORY PROJECT](https://www.indianmemoryproject.com/) - The Indian Memory Project provides materials on individuals and families to offer a micro-perspective on macrohistorical change.
 - [Rare Book Society of India](https://www.rarebooksocietyofindia.org/) - Rare Books Society of India.
-- [Archive of Indian Music](https://archiveofindianmusic.org/) - This is a digital repository of gramophone recordings, many of which feature pieces of music from India’s best-known artists. The collection is particularly strong for Carnatic and Hindustani classical music.
+- [Archive of Indian Music](https://archiveofindianmusic.org/) - This is a digital repository of gramophone recordings, many of which feature pieces of music from India's best-known artists. The collection is particularly strong for Carnatic and Hindustani classical music.
 - [Digital Library of India](https://ndl.iitkgp.ac.in/) - Under this project of the Ministry of Human Resources Development of the Government of India,  scans of out-of-copyright books from libraries across India are generated and converted into text-searchable PDF form.
 - [Indiancine.ma](https://indiancine.ma/) - This initiative of the Indian Cinema foundation  functions both as a comprehensive index and archive for Indian cinema.
 - [Periodicals and Pamphlets of Indian Anticommunists and Free Market Advocates](https://indianliberals.in/periodicals/) - This collection covers magazines and pamphlets from Cold War-era India, including pamphlets of the Forum of Free Enterprise in Mumbai, _The Indian Libertarian_ magazine, and the CIA-funded _Freedom First_.
@@ -132,7 +132,7 @@ Sources:
 - [Archives for the Study of Afghanistan](https://hazine.info/archives-and-libraries-for-the-study-of-afghanistan-ebtikar/) - This is a list of physical and digital archives or scholars of Afghanistan.
 - [Afghanistan Digital Library](http://afghanistandl.nyu.edu/no_javascript.html) - The immediate objective of the Afghanistan Digital Library is to retrieve and restore the first sixty years of Afghanistan’s published cultural heritage.
 - [Preserving and Creating Access to Unique Afghan Records](http://www.afghandata.org/) - The collection contains information related to history, social, economic, and cultural heritage of Afghanistan in Pashto and Dari. Content is continuously updated with over 2,300 titles (about 236,000 pages) currently available (April 2012).
-- [FID4SA-Repository - Afghanistan](https://www.google.com/search?q=Afghanistan&hl=en&domain=archiv.ub.uni-heidelberg.de%2Fartdok&sitesearch=archiv.ub.uni-heidelberg.de%2Fartdok&ie=utf-8&oe=utf-8&btnG=Search)  - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+- [FID4SA-Repository - Afghanistan](https://www.google.com/search?q=Afghanistan&hl=en&domain=archiv.ub.uni-heidelberg.de%2Fartdok&sitesearch=archiv.ub.uni-heidelberg.de%2Fartdok&ie=utf-8&oe=utf-8&btnG=Search) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia–FID4SA and is provided by Heidelberg University Library.
 
 ---
 
@@ -144,7 +144,7 @@ Sources:
 
 ### Sri Lanka
 
-- [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+- [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L17/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
 
 ---
 
@@ -173,28 +173,29 @@ Sources:
 
 ## Learning
 
-- [Collaboration Adventures with Primary Sources: Exploring Creative and Digital Outputs](https://jitp.commons.gc.cuny.edu/collaboration-adventures-with-primary-sources-exploring-creative-and-digital-outputs/) - A series of case studies, the authors will share how they experimented with new ways to present research using primary sources through social media, zines, data sets, and visualizations: what we call “creative outputs".
-- [AdFontes](https://www.adfontes.uzh.ch/)  - An Introduction to Working with Sources in the Archive.
-- [Clio Guide](https://guides.clio-online.de/)  - A handbook on digital resources for the historical sciences.
-- [Digital History Guide](https://chnm.gmu.edu/digitalhistory/)  - Introduction to the web for historians—teachers and students, archivists and museum curators, professors as well as amateur enthusiasts—who wish to produce online historical work, or to build upon and improve the projects they have already started in this important new medium.
-- [Geospatial Historian](https://geospatialhistorian.wordpress.com/)  - Open HGIS Lessons and Resources.
-- [HIST3814o](http://workbook.craftingdigitalhistory.ca/)  - Methods and Readings in Digital History by Shawn Graham at Carleton University.
-- [HIST 7370](https://cblevins.github.io/f19-dig-hist/)  - Methods and Readings in Digital History by Cameron Blevins at Northeastern University.
-- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/)  - You will learn how to critically analyse historical conditions, developments, patterns and ruptures – or, alternatively, how to call these into question.
-- [Local Linkages](https://locallinkages.org/)  - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
-- [The CTP Book](https://comp-think.github.io/)  - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
-- [The Programming Historian](https://programminghistorian.org/)  - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
-- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html)  - The Jupyter Book (in German language) is aimed at historians who are looking for a first application-oriented and interactive introduction to the Python programming language.
-- [UCI Digital History](https://guides.lib.uci.edu/history/history_dh)  - Overview on the field of Digital History and Digital Humanities.
-- [We think History](https://wethink.hypotheses.org/)  - News about and innovations from digital history.
+- [Collaboration Adventures with Primary Sources: Exploring Creative and Digital Outputs](https://jitp.commons.gc.cuny.edu/collaboration-adventures-with-primary-sources-exploring-creative-and-digital-outputs/) - A series of case studies, the authors will share how they experimented with new ways to present research using primary sources through social media, zines, data sets, and visualizations: what we call "creative outputs".
+- [AdFontes](https://www.adfontes.uzh.ch/) - An Introduction to Working with Sources in the Archive.
+- [Clio Guide](https://guides.clio-online.de/) - A handbook on digital resources for the historical sciences.
+- [Digital History Guide](https://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians—teachers and students, archivists and museum curators, professors as well as amateur enthusiasts—who wish to produce online historical work, or to build upon and improve the projects they have already started in this important new medium.
+- [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
+- [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - Methods and Readings in Digital History by Shawn Graham at Carleton University.
+- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Methods and Readings in Digital History by Cameron Blevins at Northeastern University.
+- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - You will learn how to critically analyse historical conditions, developments, patterns and ruptures – or, alternatively, how to call these into question.
+- [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
+- [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
+- [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
+- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - The Jupyter Book (in German language) is aimed at historians who are looking for a first application-oriented and interactive introduction to the Python programming language.
+- [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
+- [We think History](https://wethink.hypotheses.org/) - News about and innovations from digital history.
+
 ---
 
 ## More Awesome
 
-- [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme)  - Tools, resources, and services supporting the Digital Humanities.
+- [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing/)
-- [Tempopedia](https://tempopedia.org/)  - Digital History Directory.
+- [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 - [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/)
-- [Computer History](https://github.com/watson/awesome-computer-history)  - An Awesome List of computer history videos, documentaries and related folklore.
+- [Computer History](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
