@@ -9,6 +9,7 @@ Please note that this project is released with a Contributor Code of Conduct](CO
 - **Additions**
 - **Removals** 
 - **Edits**
+- **Reorganisations to the Archive**
 
 --
 
@@ -20,27 +21,31 @@ We welcome contributions to our repository on South Asian digital history. Our g
 
 Many countries in South Asia are still in the process of digitizing their physical archives, and some may not have many archives available digitally. If you're from one of these countries, don't worry - you can still contribute to our project. Here are some ways you can help:
 
-    Share any digital archives or sources related to South Asian digital history that you have access to.
-    Provide descriptions, metadata, or translations for existing archives or sources.
-    Help us identify gaps in the existing archives or sources and suggest ways to fill them.
+   - Share any digital archives or sources related to South Asian digital history that you have access to.
+   - Provide descriptions, metadata, or translations for existing archives or sources.
+   - Help us identify gaps in the existing archives or sources and suggest ways to fill them.
 
 ## Contributing to the history of the digital in South Asia
 
 The internet proliferation in South Asia happened relatively recently, and the history of the digital in this region is still being written. If you're interested in contributing to this aspect of our project, here are some ways you can help:
 
-    Share your own experiences or insights on the history of the digital in South Asia.
-    Help us research and document key events, trends, and figures in this history.
-    Suggest areas or topics that we should focus on to provide a more comprehensive picture of the digital in South Asia.
+   - Share your own experiences or insights on the history of the digital in South Asia.
+   - Help us research and document key events, trends, and figures in this history.
+   - Suggest areas or topics that we should focus on to provide a more comprehensive picture of the digital in South Asia.
 
 ## Contributing to the long-term vision
 
 Our project is a long-term one, and we understand that progress may be slow in some areas. However, every contribution counts, no matter how small. If you're interested in contributing to our long-term vision, here are some ways you can help:
 
-    Spread the word about our project and encourage others to contribute.
-    Provide feedback or suggestions for improving our repository and making it more accessible.
-    Help us raise awareness of the importance of preserving and documenting South Asian digital history.
+    - Spread the word about our project and encourage others to contribute.
+    - Provide feedback or suggestions for improving our repository and making it more accessible.
+    - Help us raise awareness of the importance of preserving and documenting South Asian digital history.
 
 Thank you for your interest in contributing to our project. With your help, we can create a valuable resource for researchers, students, and anyone interested in the digital history of South Asia.
+
+
+
+## I want to add, remove or edit something 
 
 If you are proficient with GitHub, follow the instructions below. Otherwise open an [issue](https://github.com/micahchoo/awesome-digital-history-South-Asia/issues/new/choose).
 
