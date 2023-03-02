@@ -67,13 +67,14 @@ Sources:
 - [National Archives of Bangladesh](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/) - An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [Bangladesh Genocide Archive](https://www.genocidebangladesh.org/) - An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
-- [The Daily Star](https://archive.thedailystar.net/) Newspaper from 2003.
+- [The Daily Star](https://archive.thedailystar.net/) - Newspaper from 2003.
 
 ### Nepal
 
 - [Collections from Nepal - EAP](http://eap.bl.uk/search?f%5B0%5D=places%3ANepal%2C%20Asia&f%5B1%5D=type%3ACollection) - The Endangered Archives Programme (EAP) seeks to preserve cultural heritage and make it available to as wide an audience as possible.
-- [1980-2020](https://digitalcommons.macalester.edu/himalaya/all_issues.html) [2018-2022](https://anhs-himalaya.org/publication/himalaya) - HIMALAYA, published by the Association for Nepal and Himalayan Studies, publishes original research articles, short field reports, book and film reviews, reports on meetings and conferences, alongside literature and photo essays from the region.
-- [FID4SA-Repository - Nepal](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+- [1980-2020](https://digitalcommons.macalester.edu/himalaya/all_issues.html) 
+- [2018-2022](https://anhs-himalaya.org/publication/himalaya) - HIMALAYA, published by the Association for Nepal and Himalayan Studies, publishes original research articles, short field reports, book and film reviews, reports on meetings and conferences, alongside literature and photo essays from the region.
+- [FID4SA-Repository - Nepal](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L15/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
 
 ### Tibet
 
@@ -94,10 +95,11 @@ Sources:
 - [QAMRA](https://qamra.in/1462-2/) - The Queer Archive for Memory Reflection and Activism is a multimedia archival project which aims to chronicle and preserve the stories of communities marginalised on the basis of gender and sexuality in India.
 - [Kosh](http://kosh.tattle.co.in/) - Kosh is the searchable archive of multi-media content relevant to misinformation and social media in India. It surfaces data collected by Tattle as well as that opened by other researchers.
 - [Things We Make](https://ruralindiaonline.org/en/stories/categories/things-we-make/) - Handicrafts from different parts of India and their stories.
-- [PAD.MA](https://pad.ma/grid/title) - short for Public Access Digital Media Archive, is an online archive of densely text-annotated video material, primarily footage and not finished films.
-- [Netaji Papers](http://www.netajipapers.gov.in/) - the declassified files relating to Netaji Subhas Chandra Bose.
-- [Abhilekh Patal](https://www.abhilekh-patal.in/jspui/simple-search?location=123456789%2F1&query=&rpp=20&sort_by=dc.date.accessioned_dt&order=desc) - Abhilekh Patal is a full-featured web-portal to access the National Archives of India’s reference media and its digitized collections through the internet.
-- [Economic and Political Weekly - 1966 - Present](https://www.epw.in/journal/epw-archive) [Economic Weekly - now epw - 1949-1965](https://www.epw.in/journal/ew-archive) -  Publication of economics, politics, sociology, culture, the environment and other disciplines.
+- [Pad.ma](https://pad.ma/grid/title) - Short for Public Access Digital Media Archive, is an online archive of densely text-annotated video material, primarily footage and not finished films.
+- [Netaji Papers](http://www.netajipapers.gov.in/) - The declassified files relating to Netaji Subhas Chandra Bose.
+- [Abhilekh Patal](https://www.abhilekh-patal.in/jspui/simple-search?location=123456789%2F1&query=&rpp=20&sort_by=dc.date.accessioned_dt&order=desc) - Abhilekh Patal is a full-featured web-portal to access the National Archives of India's reference media and its digitized collections through the internet.
+- [Economic and Political Weekly - 1966 - Present](https://www.epw.in/journal/epw-archive) 
+- [Economic Weekly - now epw - 1949-1965](https://www.epw.in/journal/ew-archive) -  Publication of economics, politics, sociology, culture, the environment and other disciplines.
 - [Archives at NCBS](http://catalogue.archives.ncbs.res.in/repositories/resources) - The Archives at NCBS is a public collecting centre for the history of science in contemporary India. The Archives is free and open to the public.
 - [Godrej Archives](https://archives.godrej.com/our-collection) - Godrej Archives is a repository of records from 100+ years of Godrej's history.
 - [Sarmaya](https://sarmaya.in/?s=&id=8932) - Sarmaya is a digital museum.
@@ -113,7 +115,7 @@ Sources:
 - [Collections from India - EAP](http://eap.bl.uk/search?f%5B0%5D=places%3AIndia%2C%20Asia&f%5B1%5D=type%3ACollection) - The Endangered Archives Programme (EAP) seeks to preserve cultural heritage and make it available to as wide an audience as possible.
 - [https://www.bl.uk/early-indian-printed-books](https://www.bl.uk/early-indian-printed-books) - Collection of cookery books,almanacs, erotica.
 - [community cookbooks from across India](https://communitycookbooks.wixsite.com/website) - Community Cookbooks.
-- [https://oralhistorynarmada.in/](https://oralhistorynarmada.in/) - on Narmada Bachao Andolan.
+- [https://oralhistorynarmada.in/](https://oralhistorynarmada.in/) - On Narmada Bachao Andolan.
 
 ---
 
@@ -146,6 +148,10 @@ Sources:
 
 ---
 
+### Myanmar
+
+---
+
 ## History of the Digital in South Asia
 
 - [Someone one found remanants of the very early internet in India](https://twitter.com/prstb/status/1550060972693495808?t=ZaqfPvA2MdUBmgOQMBCyAA&s=19)
@@ -167,7 +173,7 @@ Sources:
 
 ## Learning
 
-- [Collaboration Adventures with Primary Sources: Exploring Creative and Digital Outputs](https://jitp.commons.gc.cuny.edu/collaboration-adventures-with-primary-sources-exploring-creative-and-digital-outputs/)  a series of case studies, the authors will share how they experimented with new ways to present research using primary sources through social media, zines, data sets, and visualizations: what we call “creative outputs".
+- [Collaboration Adventures with Primary Sources: Exploring Creative and Digital Outputs](https://jitp.commons.gc.cuny.edu/collaboration-adventures-with-primary-sources-exploring-creative-and-digital-outputs/) - A series of case studies, the authors will share how they experimented with new ways to present research using primary sources through social media, zines, data sets, and visualizations: what we call “creative outputs".
 - [AdFontes](https://www.adfontes.uzh.ch/)  - An Introduction to Working with Sources in the Archive.
 - [Clio Guide](https://guides.clio-online.de/)  - A handbook on digital resources for the historical sciences.
 - [Digital History Guide](https://chnm.gmu.edu/digitalhistory/)  - Introduction to the web for historians—teachers and students, archivists and museum curators, professors as well as amateur enthusiasts—who wish to produce online historical work, or to build upon and improve the projects they have already started in this important new medium.
