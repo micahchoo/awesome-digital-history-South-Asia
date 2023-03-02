@@ -5,7 +5,7 @@
 
 > History from digital spaces, includes archives, blogs, newspaper clippings etc., video archives 
 
-Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the South Asian Subcontinent and the 19th and 20th centuries. Courses and learning tools to explore history digitally.
+Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the South Asian Subcontinent and the 19th and 20th centuries. Courses and learning tools to explore history digitally. Forked from  [Awesome Digital History](https://maehr.github.io/awesome-digital-history/) 
 
 ## Contents
 
@@ -50,7 +50,7 @@ sources:
 - [Museum of Art and Photography](https://map.cumulus.co.in/client/map/collection#/) |MAP is custodian to a growing collection of over 18,000 works of art, predominantly from South Asia and dating from the 10th century to the present.
 - [The Polis Project](https://www.thepolisproject.com/read-stories/) |Our work sheds light on the rise of authoritarianism especially in democracies and focuses on issues of racial, class and caste injustice, Islamophobia and State oppression around the world.
 - [1947partitionarchive](https://www.1947partitionarchive.org/)
-- [Tasveer Ghar: Digital Archive of South Asian Popular Visual Culture](http://www.tasveergharindia.net)/ - |Tasveer Ghar is a trans-national virtual “home” for collecting, digitizing, and documenting various materials produced by South Asia’s exciting popular visual sphere including posters, calendar art, pilgrimage maps and paraphernalia, cinema hoardings, advertisements, and other forms of street and bazaar art.
+- [Tasveer Ghar: Digital Archive of South Asian Popular Visual Culture](http://www.tasveergharindia.net)/ |Tasveer Ghar is a trans-national virtual “home” for collecting, digitizing, and documenting various materials produced by South Asia’s exciting popular visual sphere including posters, calendar art, pilgrimage maps and paraphernalia, cinema hoardings, advertisements, and other forms of street and bazaar art.
 - [ South Asia Open Archives (SAOA)](https://www.jstor.org/site/saoa) - | South Asia Open Archives is a free open-access resource for research and teaching - a rich and growing curated collection of key historical and contemporary sources in arts, humanities and social sciences, from and about South Asia
 - [South Asian American Digital Archive](https://www.saada.org/)  | This archive principally offers material on South Asian migrants who have made their homes in the United States
 - [South Asian Newspapers](https://gpa.eastview.com/crl/san/)  | This is a digitized, partial archive of nine newspapers from the subcontinent, freely accessible. Most cover the 1960s and 1970s period, but there is one from the mid-19th century and another from the early 20th century. 
@@ -63,7 +63,7 @@ sources:
 - [ National Archives of Bangladesh ](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/-) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [Bangladesh Genocide Archive](https://www.genocidebangladesh.org/) | An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 - [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) | FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library. 
-- [The Daily Star](https://archive.thedailystar.net/)|Newspaper from 2003
+- [The Daily Star](https://archive.thedailystar.net/)| Newspaper from 2003
 
 
 ### Nepal
