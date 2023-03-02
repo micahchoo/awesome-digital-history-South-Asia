@@ -1,6 +1,8 @@
-# Awesome Digital History of South Asia[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Digital History of South Asia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [<img src="assets/images/noun-chai-101024.svg" align="right" width="100">](https://micahchoo.github.io/awesome-digital-history-South-Asia/)
-<br>
+
+
 Welcome to the South Asian Digital History repository! Our project is dedicated to uncovering the narratives and stories that often get left out of the mainstream historical record, particularly in relation to the digital history of South Asia. Through this repository, we aim to create a comprehensive digital archive that will not only document the historical materials from the region but also serve as a platform for those interested in exploring the lesser-known stories of South Asia. We believe that digital history can be a powerful tool for preserving and sharing these narratives, and we're committed to highlighting their significance in shaping the region's cultural and social landscape.
 
 Our repository offers a wealth of resources for researchers, students, and enthusiasts interested in South Asian digital history. We have compiled courses on digital humanities, data visualization, and other relevant topics that provide an excellent foundation for exploring the history of the region. Additionally, we've curated a collection of links and resources that offer insights into digital history as a discipline. As you explore our repository, you'll discover a wealth of material that sheds light on the profound impact of digital technologies on South Asian society and culture. We hope that our efforts will help to address the need for better preservation and access to historical materials from the region, while also highlighting the importance of the stories that have been left out of the mainstream historical record.
