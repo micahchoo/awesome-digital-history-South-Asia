@@ -7,6 +7,10 @@
 
 Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the South Asian Subcontinent and the 19th and 20th centuries. Courses and learning tools to explore history digitally. Forked from  [Awesome Digital History](https://maehr.github.io/awesome-digital-history/) 
 
+## Contribute
+
+Contributions welcome! Read the [Guide to Contributing](CONTRIBUTING.md) first.
+
 ## Contents
 
 - [Archives and primary sources](#archives-and-primary-sources)
@@ -15,20 +19,20 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
   - [Nepal](#nepal)
   - [Pakistan](#pakistan)
   - [India](#india)
-	- [Lakshwadeep](#lakshwadeep)
-	- [Arunachal Pradesh](#arunachal-pradesh)
-	- [Assam](#assam)
-	- [Manipur](#manipur)
-	- [Meghalaya](#meghalaya)
-	- [Mizoram](#mizoram)
-	- [Nagaland](#nagaland)
-	- [Tripura](#tripura)
-	- [Sikkim](#sikkim)
-	- [Andaman and Nicobar Islands](#andaman-and-Nicobar-Islands)
-  - [Bhutan](#bhutan)
-  - [Afghanistan](#Afghanistan)
-  - [Maldives](#maldives)
-  - [Sri Lanka](#sri-lanka)
+	- [Lakshwadeep](#lakshwadeep) - _Needs more contributions_
+	- [Arunachal Pradesh](#arunachal-pradesh) - _Needs more contributions_
+	- [Assam](#assam)- _Needs more contributions_
+	- [Manipur](#manipur) - _Needs more contributions_
+	- [Meghalaya](#meghalaya) - _Needs more contributions_
+	- [Mizoram](#mizoram) - _Needs more contributions_
+	- [Nagaland](#nagaland) - _Needs more contributions_
+	- [Tripura](#tripura) - _Needs more contributions_
+	- [Sikkim](#sikkim) - _Needs more contributions_
+	- [Andaman and Nicobar Islands](#andaman-and-Nicobar-Islands) - _Needs more contributions_
+  - [Bhutan](#bhutan) 
+  - [Afghanistan](#Afghanistan) - _Needs more contributions_
+  - [Maldives](#maldives) - _Needs more contributions_
+  - [Sri Lanka](#sri-lanka) - _Needs more contributions_
 
 - [Digital History](#digital-history)
 
@@ -181,6 +185,4 @@ sources:
 - [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/)
 
 ---
-## Contribute
 
-Contributions welcome! Read the [Guide to Contributing](CONTRIBUTING.md) first.
