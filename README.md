@@ -21,7 +21,7 @@ Forked from [Awesome Digital History](https://maehr.github.io/awesome-digital-hi
 
 ## Contribute
 
-Contributions welcome! Read the [Guide to Contributing](CONTRIBUTING.md) first.
+Contributions welcome! Read the [Guide to Contributing](https://github.com/micahchoo/awesome-digital-history-South-Asia/blob/main/CONTRIBUTING.md) first.
 
 ## Contents
 
