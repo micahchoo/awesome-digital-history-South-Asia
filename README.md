@@ -32,6 +32,7 @@ Forked from [Awesome Digital History](https://maehr.github.io/awesome-digital-hi
   - [Sri Lanka](#sri-lanka) - _Needs more contributions_
   - [Myanmar](#myanmar)- _Needs more contributions_
 - [History of the Digital in South Asia](#history-of-the-digital-in-south-asia)
+- [More Collections](#more-collections)
 - [Learning](#learning)
 - [More Awesome](#more-awesome)
 
@@ -173,6 +174,13 @@ Sources:
 - [Letters to the Internet](https://www.dearinternet.in/letterstotheinternet)
 
 ---
+
+## More Collections
+
+- [History of Gender and Sexuality in South Asia](https://www.are.na/tarin-karimbux/history-of-gender-and-sexuality-in-south-asia)
+- [South Asian Comics](https://www.are.na/matt-wysocki/south-asian-comics)
+- [How Nation-building and development initiatives marginalise particular groups in South Asia](https://www.are.na/lucy-gallagher/how-nation-building-and-development-initiatives-marginalise-particular-groups-in-south-asia)
+- [Alternate Indian Imagery](https://www.are.na/micah-alex/alt-indian-imagery)
 
 ## Learning
 
