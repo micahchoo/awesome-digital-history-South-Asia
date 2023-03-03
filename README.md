@@ -9,7 +9,7 @@ Welcome to the South Asian Digital History repository! Our project is dedicated 
 
 We’ve curated a collection of links and resources that offer insights into digital history as a discipline in the particular context of South Asia. There are also courses on digital humanities, data visualization, and other relevant topics that provide an excellent foundation for exploring the history of the region.  
 
-We welcome contributions from anyone who shares our passion for finding narratives of South Asian digital history. The archives curated here cover a large spectrum in terms of what might be "traditionally" considered an archive. Formalising archives top-down often results in the perpetuation of colonial ideas around what constitutes knowledge and who gets to claim it and profit from it.
+We welcome contributions from anyone who shares our passion for finding narratives of South Asian digital history. Formalising archives top-down often results in the perpetuation of colonial ideas around what constitutes knowledge and who gets to claim it and profit from it. So the archives curated here cover a large spectrum in terms of what might be "traditionally" considered an archive. 
 
 
 Forked from [Awesome Digital History](https://maehr.github.io/awesome-digital-history/)
