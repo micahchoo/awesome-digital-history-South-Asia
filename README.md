@@ -1,3 +1,10 @@
+<!-- The tracker used is from insights, a cookieless, privacy-centric tracker-->
+<script src="https://getinsights.io/js/insights.js"></script>
+<script>
+insights.init('kl8BK8kILUWhC7wW');
+insights.trackPages();
+</script>
+
 # Awesome Digital History of South Asia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="./assets/images/noun-chai-101024.svg" align="right" width="250">](https://micahchoo.github.io/awesome-digital-history-South-Asia/)
