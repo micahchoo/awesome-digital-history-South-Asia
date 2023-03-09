@@ -172,6 +172,7 @@ Sources:
 - [Secular Maldives - 2007](https://secularmaldives.blogspot.com/search?updated-min=2007-01-01T00%3A00%3A00%2B05%3A00&updated-max=2008-01-01T00%3A00%3A00%2B05%3A00&max-results=9)
 - [Nagaland Post](https://web.archive.org/web/20060712024447/http://nagalandpost.com/regional.asp)
 - [Letters to the Internet](https://www.dearinternet.in/letterstotheinternet)
+- [How fiber came to Cox Bazaar, Bangaldesh](http://www.surfacing.in/?place=coxs-bazar-bangladesh)
 
 ---
 
