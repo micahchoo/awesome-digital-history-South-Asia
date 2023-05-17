@@ -6,6 +6,8 @@ authors:
 - family-names: "Alex"
   given-names: "Micah"
   orcid: "https://orcid.org/0009-0007-8032-2964"
+preferred-citation:
+  type: database
 date-released: 2023-01-10
 keywords: "awesome-archives, awesome-list, india, digital-humanities, nepal, sri-lanka, pakistan, maldives, afghanistan, digital-history, south-asian, bhutan"
 license: CC0-1.0
