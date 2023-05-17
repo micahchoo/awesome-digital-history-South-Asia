@@ -1,32 +1,24 @@
 cff-version: 1.2.0
-message: If you use this software, please cite it using these metadata.
-title: Awesome Digital History
-abstract: Finding aids for textual and multimedia primary sources with a focus on the western hemisphere and the 19th and 20th centuries. Courses and learning tools to explore history digitally.
+message: If you want to cite from the collection, hosted here, cite it like this
+title: Awesome Digital History of South Asia
+abstract: A curated list of awesome things related to South Asian digital history. It comprises two main focuses: 1. “The history of the digital” - Technology and the Internet and their interplay with socio-cultural phenomenon. 2. Digitized History - As archives across the South Asian move to digitization, many of the cultural and historical artifacts locked away in buildings also become accessible.
 authors:
-  - given-names: Moritz
-    family-names: Mähr
-    orcid: https://orcid.org/0000-0002-1367-1618
-  - given-names: Henrike
-    family-names: Hoffmann
-  - given-names: Markus
-    family-names: Wolfenswan
-  - given-names: Rida
-    family-names: Ayed
-  - given-names: Wincent
-    family-names: Balin
-  - given-names: Kieran
-    family-names: Robson
-date-released: 2019-09-20
+  - given-names: Micah
+    family-names: Alex
+    orcid: https://orcid.org/0009-0007-8032-2964
+date-released: 2023-01-10
 keywords:
+  - awesome-archives
   - awesome-list
-  - digital-history
+  - india
   - digital-humanities
-  - history
-  - primary-sources
-  - libraries
-  - collections
-  - archives
-  - maps
-  - newspapers
+  - nepal
+  - sri-lanka
+  - pakistan
+  - maldives
+  - afghanistan
+  - digital-history
+  - south-asian
+  - bhutan
 license: CC0-1.0
-repository-code: https://github.com/maehr/awesome-digital-history
+repository-code: https://github.com/micahchoo/awesome-digital-history-South-Asia/
