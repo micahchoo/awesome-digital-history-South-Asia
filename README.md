@@ -145,9 +145,7 @@ Sources:
 
 ### Afghanistan
 
-* [Digitized Afghanistan Materials in English from the Arthur Paul Afghanistan Collection](https://digitalcommons.unl.edu/afghanenglish/) - The UNO Criss Library holds the Arthur Paul Afghanistan Collection, one of the largest collections of Afghan primary and secondary materials outside of the country. It contains over 20,000 titles in more than 20 languages, including Dari, Pashto,
-
- and English.
+* [Digitized Afghanistan Materials in English from the Arthur Paul Afghanistan Collection](https://digitalcommons.unl.edu/afghanenglish/) - The UNO Criss Library holds the Arthur Paul Afghanistan Collection, one of the largest collections of Afghan primary and secondary materials outside of the country. It contains over 20,000 titles in more than 20 languages, including Dari, Pashto, and English.
 * [Archives for the Study of Afghanistan](https://hazine.info/archives-and-libraries-for-the-study-of-afghanistan-ebtikar/) - This is a list of physical and digital archives or scholars of Afghanistan.
 * [Afghanistan Digital Library](http://afghanistandl.nyu.edu/no_javascript.html) - The immediate objective of the Afghanistan Digital Library is to retrieve and restore the first sixty years of Afghanistan's published cultural heritage.
 * [Preserving and Creating Access to Unique Afghan Records](http://www.afghandata.org/) - The collection contains information related to history, social, economic, and cultural heritage of Afghanistan in Pashto and Dari. Content is continuously updated with over 2,300 titles (about 236,000 pages) currently available (April 2012).
@@ -171,7 +169,7 @@ Sources:
 
 ---
 
-## History of the Digital in South Asia## History of the Digital in South Asia
+## History of the Digital in South Asia
 
 * [Someone one found remnants of the very early internet in India](https://twitter.com/prstb/status/1550060972693495808?t=ZaqfPvA2MdUBmgOQMBCyAA&s=19)
 * [Rezwan's blogs from 2003 - Bangladesh](https://web.archive.org/web/20050112192335/http://rezwanul.blogspot.com/2003_04_01_rezwanul_archive.html)
@@ -224,7 +222,5 @@ Sources:
 * [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 * [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing/)
 * [Tempopedia](https://tempopedia.org/) - Digital History Directory.
-* [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08
-
-/09/collection-management-system-collection/)
+* [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/)
 * [Computer History](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries, and related folklore.
