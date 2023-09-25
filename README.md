@@ -65,8 +65,6 @@ Sources:
 * [South Asia Open Archives (SAOA)](https://www.jstor.org/site/saoa) - South Asia Open Archives is a free open-access resource for research and teaching - a rich and growing curated collection of key historical and contemporary sources in arts, humanities and social sciences, from and about South Asia.
 * [South Asian American Digital Archive](https://www.saada.org/) - This archive principally offers material on South Asian migrants who have made their homes in the United States.
 * [South Asian Newspapers](https://gpa.eastview.com/crl/san/) - This is a digitized, partial archive of nine newspapers from the subcontinent, freely accessible. Most cover the 1960s and 1970s period, but there is one from the mid-19th century and another from the early 20th century.
-
-
 * [The South Asian Literary Recordings Project](https://www.loc.gov/acq/ovop/delhi/salrp/index.html) - Launched in April 2000, to record the voices of South Asian authors for the Library of Congress' Archive of Recorded World Literature, the project has captured the readings of prominent South Asian poets, novelists, and playwrights. The authors recorded so far represent more than fifteen of the languages of India, Nepal, Pakistan, Sri Lanka and Bangladesh.
 * [E-Books: Full-Text Online Books on South Asia](http://library.columbia.edu/libraries/global/southasia.html) - (SARAI).
 * [LUMS Digital Archive](https://archive.lums.edu.pk/) - The LUMS Digital Archive is a research repository that aims at collecting, cataloging and preserving rare material (books, pamphlets, newspapers and other items) of historical significance and making them available to researchers.
@@ -96,9 +94,7 @@ Sources:
 ### Pakistan
 
 * [The Citizen Archive of Pakistan](https://www.citizensarchive.org/) - Citizens Archive of Pakistan.
-* [FID4SA-Repository - Pakistan
-
-](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L16/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [FID4SA-Repository - Pakistan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L16/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
 * [National Archives of Pakistan](https://archives.gov.pk/Catalogs.php) - An effort is being made to publish catalogs and lists of whatever source material in National Archives of Pakistan. An endeavor is being made to collect and preserve source material wherever available through purchases/donations with a view to place it eventually in its permanent house in Islamabad i.e. National Archives of Pakistan.
 
 ---
@@ -118,9 +114,7 @@ Sources:
 * [Sarmaya](https://sarmaya.in/?s=&id=8932) - Sarmaya is a digital museum.
 * [Living Lightly](https://livinglightly.in/) - Living Lightly ~ Journeys with Pastoralists is the first curated exhibition on pastoralism in India, covering the land, lives and livelihoods of Indian pastoralists. It captures their remarkable history of mobility, the ecosystems that nurture their life-worlds, their culture, science, art, politics, spiritual moorings, the economics and challenges of herding.
 * [INDIAN MEMORY PROJECT](https://www.indianmemoryproject.com/) - The Indian Memory Project provides materials on individuals and families to offer a micro-perspective on macrohistorical change.
-* [Rare Book
-
- Society of India](https://www.rarebooksocietyofindia.org/) - Rare Books Society of India.
+* [Rare Book Society of India](https://www.rarebooksocietyofindia.org/) - Rare Books Society of India.
 * [Archive of Indian Music](https://archiveofindianmusic.org/) - This is a digital repository of gramophone recordings, many of which feature pieces of music from India's best-known artists. The collection is particularly strong for Carnatic and Hindustani classical music.
 * [Digital Library of India](https://ndl.iitkgp.ac.in/) - Under this project of the Ministry of Human Resources Development of the Government of India, scans of out-of-copyright books from libraries across India are generated and converted into text-searchable PDF form.
 * [Indiancine.ma](https://indiancine.ma/) - This initiative of the Indian Cinema foundation functions both as a comprehensive index and archive for Indian cinema.
