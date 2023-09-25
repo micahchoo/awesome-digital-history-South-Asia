@@ -77,6 +77,8 @@ Sources:
 * [Bangladesh Genocide Archive](https://www.genocidebangladesh.org/) - An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 * [FID4SA-Repository - Bangladesh](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L11/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
 * [The Daily Star](https://archive.thedailystar.net/) - Newspaper from 2003.
+* [USA Library of Congress - Bangladesh](https://www.loc.gov/search/?q=bangladesh&fa=access-restricted%3Afalse&st=list&c=150)
+
 
 ### Nepal
 
@@ -84,10 +86,12 @@ Sources:
 * [1980-2020](https://digitalcommons.macalester.edu/himalaya/all_issues.html) 
 * [2018-2022](https://anhs-himalaya.org/publication/himalaya) - HIMALAYA, published by the Association for Nepal and Himalayan Studies, publishes original research articles, short field reports, book and film reviews, reports on meetings and conferences, alongside literature and photo essays from the region.
 * [FID4SA-Repository - Nepal](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L15/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Nepal](https://www.loc.gov/search/?q=nepal&fa=access-restricted%3Afalse&st=list&c=150)
 
 ### Tibet
 
 * [FID4SA-Repository - Tibet](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L18/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Tibet](https://www.loc.gov/search/?q=tibet&fa=access-restricted%3Afalse&st=list&c=150)
 
 ---
 
@@ -96,6 +100,7 @@ Sources:
 * [The Citizen Archive of Pakistan](https://www.citizensarchive.org/) - Citizens Archive of Pakistan.
 * [FID4SA-Repository - Pakistan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L16/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
 * [National Archives of Pakistan](https://archives.gov.pk/Catalogs.php) - An effort is being made to publish catalogs and lists of whatever source material in National Archives of Pakistan. An endeavor is being made to collect and preserve source material wherever available through purchases/donations with a view to place it eventually in its permanent house in Islamabad i.e. National Archives of Pakistan.
+* [USA Library of Congress - Pakistan](https://www.loc.gov/search/?q=pakistan&fa=access-restricted%3Afalse&st=list&c=150)
 
 ---
 
@@ -117,7 +122,7 @@ Sources:
 * [Rare Book Society of India](https://www.rarebooksocietyofindia.org/) - Rare Books Society of India.
 * [Archive of Indian Music](https://archiveofindianmusic.org/) - This is a digital repository of gramophone recordings, many of which feature pieces of music from India's best-known artists. The collection is particularly strong for Carnatic and Hindustani classical music.
 * [Digital Library of India](https://ndl.iitkgp.ac.in/) - Under this project of the Ministry of Human Resources Development of the Government of India, scans of out-of-copyright books from libraries across India are generated and converted into text-searchable PDF form.
-* [Indiancine.ma](https://indiancine.ma/) - This initiative of the Indian Cinema foundation functions both as a comprehensive index and archive for Indian cinema.
+* [Indiancine.ma](https://indiancine.ma/) - This initiative of the Indian Cinema Foundation functions both as a comprehensive index and archive for Indian cinema.
 * [Periodicals and Pamphlets of Indian Anticommunists and Free Market Advocates](https://indianliberals.in/periodicals/) - This collection covers magazines and pamphlets from the Cold War-era India, including pamphlets of the Forum of Free Enterprise in Mumbai, _The Indian Libertarian_ magazine, and the CIA-funded _Freedom First_.
 * [Amrita Bazar Patrika (Calcutta, 1870-1949)](https://eap.bl.uk/collection/EAP262-1-1) - English-language newspaper hosted by Endangered Archives Project.
 * [Jugantar Patrika (Calcutta, 1937-1980)](https://eap.bl.uk/collection/EAP262-1-2) - Bengali-language newspaper hosted by Endangered Archives Project.
@@ -127,13 +132,14 @@ Sources:
 * [https://oralhistorynarmada.in/](https://oralhistorynarmada.in/) - On Narmada Bachao Andolan.
 * [Prasar Bharati Central Archives](https://www.youtube.com/@DDARCHIVES)
 * [Explore India's Constitutional Origins](https://www.constitutionofindia.net)
-
+* [USA Library of Congress - India](https://www.loc.gov/search/?q=india&fa=access-restricted%3Afalse&st=list&c=150)
 ---
 
 ### Bhutan
 
 * [FID4SA-Repository - Bhutan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L12/) - The National Library of Bhutan has the goal that all Bhutanese, wherever they are, will have access to both Bhutan's documentary heritage and to the information resources of the world.
 * [The National Library of Bhutan](http://220.158.236.131/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Bhutan](https://www.loc.gov/search/?q=bhutan&fa=access-restricted%3Afalse&st=list&c=150)
 
 ---
 
@@ -144,18 +150,23 @@ Sources:
 * [Afghanistan Digital Library](http://afghanistandl.nyu.edu/no_javascript.html) - The immediate objective of the Afghanistan Digital Library is to retrieve and restore the first sixty years of Afghanistan's published cultural heritage.
 * [Preserving and Creating Access to Unique Afghan Records](http://www.afghandata.org/) - The collection contains information related to history, social, economic, and cultural heritage of Afghanistan in Pashto and Dari. Content is continuously updated with over 2,300 titles (about 236,000 pages) currently available (April 2012).
 * [FID4SA-Repository - Afghanistan](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L13/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Afghanistan](https://www.loc.gov/search/?q=afghanistan&fa=access-restricted%3Afalse&st=list&c=150)
 
 ---
 
 ### Maldives
 
 * [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L14/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Maldives](https://www.loc.gov/search/?q=maldives&fa=access-restricted%3Afalse&st=list&c=150)
+
 
 ---
 
 ### Sri Lanka
 
 * [FID4SA-Repository](https://fid4sa-repository.ub.uni-heidelberg.de/view/laender/L17/) - FID4SA-Repository is the full-text server of the Specialized Information Service South Asia – FID4SA and is provided by Heidelberg University Library.
+* [USA Library of Congress - Sri Lanka](https://www.loc.gov/search/?fa=location:sri+lanka%7Caccess-restricted:false)
+
 
 ---
 
