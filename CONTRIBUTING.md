@@ -72,6 +72,50 @@ If you want to contribute to our project, you can submit a pull request with you
 -    Once you've completed these steps, submit your suggestion for review.
 -    Add a description
 
+---
+
+## Rubric for Evaluating Additions
+
+Each candidate resource should meet **all required criteria** and ideally at least one bonus criterion.
+
+### Required Criteria (must meet all)
+
+| # | Criterion | Description |
+|---|-----------|-------------|
+| 1 | **South Asia relevance** | Resource must be about, from, or significantly related to South Asia (Afghanistan, Bangladesh, Bhutan, India, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka, Tibet, or the subcontinent broadly) |
+| 2 | **Digital accessibility** | Resource must be accessible online — a working URL that leads to usable content (not fully paywalled, not a dead link) |
+| 3 | **Relates to the history of the digital or digital histories** | Resource must either (a) document how technology, the internet, or digital culture evolved in South Asia, or (b) provide digitized access to historical materials from/about the region |
+| 4 | **Not a duplicate** | Resource must not already be listed or substantially overlap with an existing entry |
+
+### Bonus Criteria (strengthen the case for inclusion)
+
+| # | Criterion | Description |
+|---|-----------|-------------|
+| A | **Fills an underrepresented region** | Contributes to a sparse section (Myanmar, Maldives, Sri Lanka, Bhutan, Nepal, NE India, Andaman & Nicobar, Lakshadweep) |
+| B | **Surfaces marginalized perspectives** | Voices or materials from communities underrepresented in traditional archives (caste, gender, indigenous, religious minorities, etc.) |
+| C | **Unique materiality** | Contains materials not typically found in formal archives (blogs, forums, oral histories, street art, community media, pamphlets, etc.) |
+| D | **At risk of disappearing** | Content that is endangered, from defunct platforms, or preserved via the Wayback Machine |
+
+---
+
+## Rubric for "History of the Digital in South Asia" Section
+
+This section documents how the internet, technology, and digital culture arrived, evolved, and were experienced in South Asia. These are not digitized archives OF history, but artifacts and accounts of **digital history itself**.
+
+A resource should fit **at least one** of the following categories:
+
+| # | Category | Description | Examples |
+|---|----------|-------------|----------|
+| 1 | **First websites & homepages** | Early national or community websites, typically captured via the Wayback Machine | Manzoor's Homepage for Bangladeshis (1995), Bhutan Post (2002), Free Tibet (1996) |
+| 2 | **Early blogs & forums** | Personal and community blogs or forums from the early web era that show how South Asians used the internet to speak, debate, and connect | Rezwan's blogs (2003), BOL forums (1999), Chapati Mystery (2004) |
+| 3 | **Pioneer online media** | First online newspapers, magazines, or publications from each country | NepalNews (1999), Himal Southasian (1997), Nagaland Post |
+| 4 | **Internet infrastructure narratives** | Accounts of how connectivity arrived: submarine cables, ISPs, cybercafes, first email nodes, fiber rollouts | How fiber came to Cox Bazaar, Netchakra chronology, Pakzilla timeline |
+| 5 | **Digital rights & shutdowns** | Documentation of internet shutdowns, censorship, surveillance, and digital resistance | Myanmar Internet Project |
+| 6 | **Community voices online** | How marginalized or minority communities used the early web for advocacy, identity, and solidarity | Where is Kalpana Chakma, MINORITY on meghbarta, Letters to the Internet |
+| 7 | **Found digital artifacts** | Rediscovered fragments of early South Asian web presence — the archaeology of the internet | "Someone found remnants of the very early internet in India" |
+
+**Formatting:** Include the year or era in the entry name when possible (e.g., `Secular Maldives - 2007`).
+
 ## Appendix: running lint tests
  To run tests locally:
     # using ruby
