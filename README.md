@@ -113,6 +113,7 @@ Sources:
 * [Nepalbhasa Manuscripts in the UK](https://www.nepalbhasamanuscript.org/) - An online archive of digitized Newar (Nepal Bhasa) manuscripts with transcription and translation, enabling the public to adopt manuscripts for digitization to help preserve this endangered script.
 * [Pahar - Nepal Topo Maps](https://pahar.in/nepal-topo-maps/) - A digital archive of historical Himalayan cartography including 57 Nepal-Tibet border maps, Sino-Nepalese Frontier Commission maps, Survey of India reports, and records from the Great Trigonometrical Survey.
 * [The Himalayan Database](https://www.himalayandatabase.com/) - A comprehensive digital archive of expedition records for all peaks in the Nepal Himalaya, compiled from Elizabeth Hawley's journalism spanning over 50 years, documenting thousands of expeditions with detailed climbing histories, routes, and outcomes.
+* [ANUBhasha - Maithili Manuscripts of Nepal](https://anubhasha.org/collections/maithili-manuscripts-of-nepal/) - A digital collection of early modern Maithili song-poems by Vidyapati from palm-leaf manuscripts, including the oldest known Nepal Manuscript in Tirhuta script, preserving an underrepresented literary tradition of the Terai region.
 * [Bajracharya Document Archive](https://bajracharya.org/archive/) - A curated digital collection of materials documenting Bajracharya culture, Newar Buddhism, and the priestly caste's historical role in the Kathmandu Valley, preserving unique religious and cultural heritage of Nepal's indigenous Newar community.
 * [USA Library of Congress - Nepal](https://www.loc.gov/search/?q=nepal&fa=access-restricted%3Afalse&st=list&c=150)
 
@@ -155,6 +156,8 @@ Sources:
 * [Sindh Archives](https://archives.sindhculture.gov.pk/) - The Government of Sindh's digital archive of historical records, manuscripts, and cultural documents from the Sindh region covering administrative, legal, and cultural heritage from the colonial era to the present.
 * [Mohenjo-daro Digital Archive](https://www.mohenjo-daro.org/) - Prof. Michael Jansen's comprehensive digital documentation of the Mohenjo-daro archaeological site, a UNESCO World Heritage Site of the Indus Valley Civilization, with research, photographs, architectural plans, and excavation records.
 * [Harappa.com](https://www.harappa.com/) - A non-profit educational resource dedicated to the ancient Indus Valley Civilization, featuring essays, articles, videos, photographs, and a 3D virtual tour of the archaeological site at Harappa, Pakistan.
+* [PG Sindhi Library](https://pgsindhi-library.sanchaya.net/) - A digital archive of post-Partition Sindhi-language books published in India, with metadata in Perso-Arabic, Devanagari, and Roman scripts, preserving Sindhi literary heritage for the displaced diaspora community.
+* [Balochi Oral Narration Collection (ELAR)](https://www.elararchive.org/dk0732/) - Approximately 80 hours of recorded Balochi folktales, fairy tales, legends, and Islamic tales from the Endangered Languages Archive, documenting the oral traditions of the Balochi-speaking communities of Pakistan and Iran.
 
 ---
 
