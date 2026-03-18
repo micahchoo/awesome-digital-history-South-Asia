@@ -209,6 +209,10 @@ Sources:
 * [Project Madurai](https://www.projectmadurai.org/) - A volunteer-driven digital library of over 660 ancient Tamil literary classics, freely distributing e-texts of Sangam-era poetry, Thirukkural, Silappadikaram, and other canonical Tamil works since 1998, making classical Tamil literature universally accessible.
 * [Sangam Tamil](https://sangamtamil.com/) - An interactive digital platform for exploring 2,658 verses of ancient Sangam-era Tamil poetry (c. 300 BCE-300 CE), with original Tamil text, English translations, landscape-based filters, and poet connections mapping the earliest Tamil literary canon.
 * [Dalit Social Reform Movements in Kerala (EAP292)](https://eap.bl.uk/project/EAP292) - A British Library Endangered Archives project surveying and digitizing documentary materials related to Dalit and lower-caste social reform movements in 20th-century Kerala, preserving pamphlets, photographs, and organizational records of anti-caste activism.
+* [Olakh Feminist Political Posters (UW-Madison)](https://search.library.wisc.edu/digital/AOLAKH) - Digitized collection of grassroots feminist posters from across India, collected by the Vadodara-based feminist organization Olakh, documenting decades of women's movement campaigns on gender violence, reproductive rights, and labor.
+* [Sahapedia](https://www.sahapedia.org/) - An open online resource on Indian arts, cultures, and heritage with multimedia articles, photo essays, oral histories, maps, and timelines across cultural domains including tribal and folk traditions, architecture, performing arts, and sacred geographies.
+* [Digitizing Assam](https://assamarchive.org/) - A community digitization project by the Nanda Talukdar Foundation preserving Assamese journals and books from 1813-1970, rescuing rare periodicals and literary works from Northeast India's colonial and post-independence periods.
+* [CoRSAL - Computational Resource for South Asian Languages](https://corsal.unt.edu/) - A digital archive at the University of North Texas of audio, video, and text for minority South Asian languages, including the Manipur Language Resource with 334 items of Meitei manuscripts (puyas), folk songs, and oral histories in Meithei Mayek script.
 
 ---
 
@@ -289,6 +293,8 @@ Sources:
 * [Sri Lankan Tamil Palm-Leaf Manuscripts (EAP1260)](https://eap.bl.uk/project/EAP1260) - A British Library Endangered Archives project cataloguing and digitizing 300-500 Tamil and Sanskrit palm-leaf manuscripts from Sri Lanka's Northern and Eastern provinces, endangered by displacement and decades of armed conflict.
 * [Digitising Malay Writing in Sri Lanka (EAP609)](https://eap.bl.uk/project/EAP609) - A British Library project surveying and digitizing Malay-language manuscripts and printed books in Sri Lanka, documenting the little-known Sri Lankan Malay Muslim community's literary heritage in a critically endangered language.
 * [Ilankai Tamil Sangam](https://sangam.org/) - A US-based Sri Lankan Tamil diaspora platform hosting literary criticism, cultural essays, news analysis, and historical documentation of Tamil heritage in Sri Lanka, including coverage of events like the destruction of the Jaffna Library.
+* [University Teachers for Human Rights, Jaffna (UTHR)](https://www.uthr.org/) - Full-text online archive of human rights documentation from the Sri Lankan civil war, including "The Broken Palmyra" (1990) and decades of reports documenting violations by all parties to the conflict.
+* [Taking Tea - Plantation Heritage Project](https://takingtea.exeter.ac.uk/) - A University of Exeter research project documenting tea plantation heritage through workers' songs, narratives, and protest traditions from India and Sri Lanka, contrasting labor experiences with British consumer culture.
 * [USA Library of Congress - Sri Lanka](https://www.loc.gov/search/?fa=location:sri+lanka%7Caccess-restricted:false)
 
 
