@@ -91,6 +91,7 @@ Sources:
 * [National Archives of Bangladesh](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/) - An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 * [The Daily Star](https://archive.thedailystar.net/) - Newspaper from 2003.
 * [The Travelling Archive](https://www.thetravellingarchive.org/) - A grassroots field-recording project documenting folk songs, stories, and oral traditions across Bangladesh, eastern India, and the Bengali diaspora, run by singer-researcher Moushumi Bhowmik since 2003.
+* [Liberation War Museum Digital Collection](https://www.liberationwarmuseumbd.org/page/collection) - The Liberation War Museum's digitized holdings include the A.M.A Muhith Collection of 2,907 international news items and US Congressional Records documenting the 1971 war, alongside photographs, personal effects, and wartime artifacts.
 * [USA Library of Congress - Bangladesh](https://www.loc.gov/search/?q=bangladesh&fa=access-restricted%3Afalse&st=list&c=150)
 
 
@@ -142,6 +143,7 @@ Sources:
 * [Smithsonian Folkways: Folk Music of Pakistan](https://folkways.si.edu/folk-music-of-pakistan/central-asia-islamica-world/album/smithsonian) - A curated collection of Pakistani folk recordings documenting songs for marriage, harvest festivals, village fairs, and courtship from across the country's diverse regional traditions.
 * [Pakistan Eats / Library of Congress Food Archive](https://www.pakistaneats.com/) - Founded by Maryam Jillani, this award-winning platform documenting Pakistani cuisine across all regions was selected by the Library of Congress for its Food and Foodways Web Archive, preserving the country's diverse culinary heritage from street food to home kitchens.
 * [Lybarger Collection of Pakistani Music (Harvard)](https://archive.blogs.harvard.edu/loebmusic/2017/05/10/notes-from-the-field-the-lowell-h-lybarger-collection-of-pakistani-music-materials/) - An ethnomusicological fieldwork collection at Harvard's Archive of World Music spanning 1965-2007, focusing on classical Hindustani tabla music from Punjab and including rare recordings of the last practitioners of the Talwandi Gharana's Dhrupad style.
+* [Torwali Language and Culture Archive (IBT)](https://www.ibtminorities.org/) - An archive by Idara Baraye Taleem-o-Taraqi documenting the endangered Torwali language and culture of Swat, Pakistan, including oral histories, folk songs, and ethnographic recordings preserving a minority community's heritage against cultural homogenization.
 
 ---
 
@@ -182,6 +184,9 @@ Sources:
 * [Zoological Survey of India Digital Publications](https://faunaofindia.nic.in/) - Digital archive of over a century of zoological publications including the Records of the Indian Museum (from 1907), Fauna of India series, and status surveys of endangered species, documenting India's 92,873 recorded fauna species across the subcontinent.
 * [MAHSA Historic Survey of India Maps](https://cudl.lib.cam.ac.uk/collections/surveyofindiamaps) - Over 1,200 colonial-era Survey of India maps digitized in collaboration between Cambridge University Library, the British Library, and the MAHSA project, openly accessible via IIIF, revealing infrastructure, wells, trade routes, settlements, and places of worship as mapped from 1767 onward.
 * [Biodiversity Heritage Library: Indian Forest Records](https://www.biodiversitylibrary.org/bibliography/127473) - Digitized publications of the Forest Research Institute, Dehra Dun, covering over a century of forestry science in India including botany, entomology, silviculture, and forest pathology from the colonial era onward.
+* [The Northeast India AV Archive](https://www.nearchive.in) - Northeast India's public audiovisual archive based in Shillong, partnering with institutions across Sikkim, Nagaland, and Manipur, curating video and audio documentation of indigenous music, dance, and cultural heritage including the Tirot Sing Museum of Indigenous Knowledge at Nongkhlaw.
+* [Visual Histories of Northeast India (UCLA MEAP)](https://meap.library.ucla.edu/projects/visual-histories-of-northeast-india/) - A UCLA Modern Endangered Archives project inventorying visual materials from Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura, including photographer Ahmed Hossain's 1960s-2000s documentation of tribal communities and anthropologist Verrier Elwin's 1950s-60s 16mm films.
+* [The North-East Archive (Indian Culture Portal)](https://indianculture.gov.in/north-east-archive) - A digital portal covering Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, and Sikkim with rare photographs, videos, books, and cultural materials as part of the National Virtual Library of India.
 
 ---
 
@@ -241,6 +246,8 @@ Sources:
 * [National Digital Library of Sri Lanka](https://diglib.natlib.lk/) - Sri Lanka's national digital repository hosting over 66,000 digitized items spanning from the 11th century to the present, including government publications, rare books, newspapers, and intangible cultural heritage documentation.
 * [Noolaham Digital Library](https://noolaham.org) - The largest Tamil digital library on the internet, containing over 100,000 items related to Sri Lankan Tamil-speaking communities, including a special Oral History Project with approximately 500 recorded interviews.
 * [Sri Lanka Journals Online (SLJOL)](https://www.sljol.info/) - An open-access database of 169 Sri Lankan academic journals with over 24,000 articles across all disciplines, managed by the National Science Foundation of Sri Lanka.
+* [Aavanaham Multimedia Archive](https://aavanaham.noolaham.org/) - The multimedia arm of the Noolaham Foundation archiving photographs, ephemera, audio, and video materials related to Sri Lankan Tamil-speaking communities, complementing the print collections with over 5,000 multimedia items including images of war-affected areas and cultural events.
+* [Digital Museum of Upcountry Tamil Heritage (UCLA MEAP)](https://meap.library.ucla.edu/projects/) - A UCLA-funded project documenting over two hundred private and institutional collections of the Upcountry Tamil community, descendants of Indian laborers brought to British-owned plantations in the nineteenth century, preserving materials at risk of loss.
 * [USA Library of Congress - Sri Lanka](https://www.loc.gov/search/?fa=location:sri+lanka%7Caccess-restricted:false)
 
 
@@ -256,6 +263,7 @@ Sources:
 * [Public Memory of Myanmar](https://contentdm.carleton.edu/digital/collection/PMM) - A digital collection documenting daily life in Burma/Myanmar through photographs and interviews, directed by Tun Myint, a political scientist and former student leader of the 1988 democracy movement.
 * [Rohingya Cultural Memory Centre](https://rohingyaculturalmemorycentre.iom.int/) - A joint IOM and Rohingya community initiative providing an online interactive gallery and digital archive, with Rohingya cultural agents in Cox's Bazar camps collecting cultural objects, oral histories, and audiovisual storytelling.
 * [Rohingya Genocide Archive](https://rohingyagenocidearchive.org/) - Established in 2018 by Rohingya Vision TV and WITNESS, preserving over 629 videos documenting atrocities against Rohingya in Rakhine State, including material from citizen journalists never previously made public.
+* [The Irrawaddy](https://www.irrawaddy.com/) - One of Myanmar's most important independent media outlets, founded in 1990 by exiled Burmese journalists in Thailand, providing continuous coverage of democracy movements, military rule, and ethnic conflicts with an extensive digital archive of reporting since 1993.
 
 ---
 
@@ -302,6 +310,8 @@ Sources:
 * [Virtual Bangladesh - first website about Bangladesh (1993)](https://www.virtualbangladesh.com/) - Created by Dr. Zunaid Kazi in 1993 — the same year the World Wide Web went public — this was the first-ever website about Bangladesh, listed in the World Wide Web Yellow Pages by 1996, named one of the best websites by Britannica.com in 2001, and the top Google result for Bangladesh for nearly two decades.
 * [Where is Kalpana Chakma](https://web.archive.org/web/20010218234552/http://www.meghbarta.net/2000/june/minor.html#kalpana)
 * [YouTube Ban and Pakistan's Global Internet Disruption (2008)](https://web.archive.org/web/20080228033131/http://dontblocktheblog.blogspot.com/) - In February 2008, Pakistan Telecom's attempt to block YouTube due to "blasphemous" content accidentally knocked out access to YouTube worldwide for two hours when their BGP route announcement was propagated to ISPs across the Pacific Rim.
+* [Asia Internet History Projects](https://sites.google.com/site/internethistoryasia/) - An academic initiative documenting the history of the internet across Asia from the 1980s to the 2010s, with published volumes and archived interviews with internet pioneers and leaders from across the region including South Asia.
+* [Citizen Archivists of South Asian Oral Cultures (Global Voices)](https://globalvoices.org/2025/11/21/how-citizen-archivists-in-south-asia-confront-the-online-marginalization-of-oral-cultures-and-languages/) - Documentation of how citizen archivists in India and Pakistan are recording endangered oral culture videos — from Tulu agricultural folk songs to Torwali minority traditions — and uploading them to Wikimedia Commons to confront the online marginalization of oral languages.
 
 ---
 
@@ -311,6 +321,7 @@ Sources:
 * [South Asian Comics](https://www.are.na/matt-wysocki/south-asian-comics)
 * [How Nation-building and development initiatives marginalise particular groups in South Asia](https://www.are.na/lucy-gallagher/how-nation-building-and-development-initiatives-marginalise-particular-groups-in-south-asia)
 * [Alternate Indian Imagery](https://www.are.na/micah-alex/alt-indian-imagery)
+* [UCLA Modern Endangered Archives Program - South Asia](https://meap.library.ucla.edu/projects/) - Multiple funded projects preserving endangered archives across South Asia, including Sufi shrine manuscripts from the Afghan-Pakistan frontier, visual histories of Northeast India, Upcountry Tamil collections in Sri Lanka, and progressive movement archives from Pakistan.
 
 ## Learning
 

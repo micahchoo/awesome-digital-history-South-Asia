@@ -15,6 +15,246 @@
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+  <style>
+    /* --- Usability Improvements --- */
+
+    /* Better typography */
+    body {
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    section {
+      max-width: 820px;
+    }
+
+    section li {
+      margin-bottom: 0.75rem;
+      line-height: 1.6;
+    }
+
+    section li a {
+      font-weight: 600;
+    }
+
+    /* Section header accents */
+    section h3 {
+      border-left: 4px solid #0366d6;
+      padding-left: 12px;
+      margin-top: 2rem;
+    }
+
+    section h2 {
+      margin-top: 2.5rem;
+    }
+
+    /* Nicer horizontal rules */
+    section hr {
+      border: none;
+      border-top: 2px solid #e1e4e8;
+      margin: 2.5rem 0;
+    }
+
+    /* Sticky sidebar nav */
+    .sidebar-nav {
+      margin-top: 1.5rem;
+      max-height: calc(100vh - 200px);
+      overflow-y: auto;
+      font-size: 0.8rem;
+    }
+
+    .sidebar-nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .sidebar-nav li {
+      margin-bottom: 4px;
+    }
+
+    .sidebar-nav a {
+      color: #586069;
+      text-decoration: none;
+      display: block;
+      padding: 2px 6px;
+      border-radius: 4px;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .sidebar-nav a:hover,
+    .sidebar-nav a.active {
+      background: #f1f8ff;
+      color: #0366d6;
+    }
+
+    .sidebar-nav .nav-label {
+      font-weight: 700;
+      color: #24292e;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 6px;
+      padding: 2px 6px;
+    }
+
+    /* Search box */
+    #search-container {
+      position: sticky;
+      top: 0;
+      background: #fff;
+      z-index: 10;
+      padding: 12px 0;
+      border-bottom: 1px solid #e1e4e8;
+      margin-bottom: 1.5rem;
+    }
+
+    #search-input {
+      width: 100%;
+      padding: 8px 12px 8px 36px;
+      border: 1px solid #d1d5da;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.15s;
+      box-sizing: border-box;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23586069' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") no-repeat 10px center;
+    }
+
+    #search-input:focus {
+      border-color: #0366d6;
+      box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
+    }
+
+    #search-count {
+      font-size: 0.8rem;
+      color: #586069;
+      margin-top: 6px;
+      display: none;
+    }
+
+    /* Filter buttons */
+    #filter-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+    }
+
+    .filter-btn {
+      border: 1px solid #d1d5da;
+      background: #fff;
+      border-radius: 999px;
+      padding: 4px 12px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      color: #24292e;
+    }
+
+    .filter-btn:hover {
+      background: #f1f8ff;
+      border-color: #0366d6;
+    }
+
+    .filter-btn.active {
+      background: #0366d6;
+      color: #fff;
+      border-color: #0366d6;
+    }
+
+    /* Needs contributions badge */
+    .needs-contributions {
+      background: #fff3cd;
+      color: #856404;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      margin-left: 8px;
+      vertical-align: middle;
+      text-decoration: none;
+      font-weight: normal;
+    }
+
+    .needs-contributions:hover {
+      background: #ffeeba;
+    }
+
+    /* Back to top button */
+    #back-to-top {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: #0366d6;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 100;
+    }
+
+    #back-to-top:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+
+    /* Resource count badges on sections */
+    .resource-count {
+      font-size: 0.7rem;
+      color: #586069;
+      background: #f1f3f5;
+      padding: 1px 7px;
+      border-radius: 10px;
+      margin-left: 6px;
+      vertical-align: middle;
+      font-weight: normal;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 768px) {
+      .sidebar-nav {
+        display: none;
+      }
+
+      #filter-buttons {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 4px;
+      }
+
+      .filter-btn {
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+
+      #search-container {
+        padding: 8px 0;
+      }
+    }
+
+    /* Make header sticky on desktop */
+    @media (min-width: 769px) {
+      header {
+        position: sticky;
+        top: 20px;
+        align-self: flex-start;
+      }
+    }
+
+    /* Dimmed sections during filtering */
+    .section-hidden {
+      display: none !important;
+    }
+  </style>
 </head>
 
 <body>
@@ -43,8 +283,19 @@
         <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
       </ul>
       {% endif %}
+
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <div class="nav-label">Navigate</div>
+        <ul id="nav-links"></ul>
+      </nav>
     </header>
     <section>
+
+      <div id="search-container">
+        <input type="text" id="search-input" placeholder="Search archives and resources..." aria-label="Search resources">
+        <div id="search-count"></div>
+        <div id="filter-buttons"></div>
+      </div>
 
       {{ content }}
 
@@ -56,7 +307,205 @@
       <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
     </footer>
   </div>
+
+  <button id="back-to-top" aria-label="Back to top" title="Back to top">&#8593;</button>
+
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+  <script>
+  (function() {
+    // --- Build sidebar nav from h2/h3 headings ---
+    var navList = document.getElementById('nav-links');
+    var headings = document.querySelectorAll('section h2, section h3');
+    headings.forEach(function(h) {
+      if (!h.id) return;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent.replace(/\s*Needs more contributions\s*/gi, '').trim();
+      if (h.tagName === 'H3') {
+        a.style.paddingLeft = '16px';
+        a.style.fontSize = '0.75rem';
+      }
+      li.appendChild(a);
+      navList.appendChild(li);
+    });
+
+    // --- IntersectionObserver for active nav highlighting ---
+    var navLinks = navList.querySelectorAll('a');
+    if ('IntersectionObserver' in window && headings.length > 0) {
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            navLinks.forEach(function(l) { l.classList.remove('active'); });
+            var link = navList.querySelector('a[href="#' + entry.target.id + '"]');
+            if (link) link.classList.add('active');
+          }
+        });
+      }, { rootMargin: '-20% 0px -70% 0px' });
+      headings.forEach(function(h) { if (h.id) observer.observe(h); });
+    }
+
+    // --- Build filter buttons from h3 country headings ---
+    var filterContainer = document.getElementById('filter-buttons');
+    var countryHeadings = document.querySelectorAll('section h3');
+    if (countryHeadings.length > 0) {
+      var allBtn = document.createElement('button');
+      allBtn.className = 'filter-btn active';
+      allBtn.textContent = 'All';
+      allBtn.setAttribute('data-filter', 'all');
+      filterContainer.appendChild(allBtn);
+
+      countryHeadings.forEach(function(h) {
+        if (!h.id) return;
+        var btn = document.createElement('button');
+        btn.className = 'filter-btn';
+        btn.textContent = h.textContent.replace(/\s*Needs more contributions\s*/gi, '').trim();
+        btn.setAttribute('data-filter', h.id);
+        filterContainer.appendChild(btn);
+      });
+    }
+
+    // --- Filter button click handler ---
+    filterContainer.addEventListener('click', function(e) {
+      var btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      var filter = btn.getAttribute('data-filter');
+
+      filterContainer.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      if (filter === 'all') {
+        // Show everything
+        document.querySelectorAll('section h2, section h3, section ul, section hr, section p, section ol').forEach(function(el) {
+          el.classList.remove('section-hidden');
+        });
+        return;
+      }
+
+      // Hide all country sections, show only selected
+      var target = document.getElementById(filter);
+      if (target) {
+        // First hide all h3 sections and their following ul
+        countryHeadings.forEach(function(h) {
+          h.classList.add('section-hidden');
+          var next = h.nextElementSibling;
+          while (next && next.tagName !== 'H3' && next.tagName !== 'H2' && next.tagName !== 'HR') {
+            next.classList.add('section-hidden');
+            next = next.nextElementSibling;
+          }
+          if (next && next.tagName === 'HR') next.classList.add('section-hidden');
+        });
+        // Show the selected section
+        target.classList.remove('section-hidden');
+        var next = target.nextElementSibling;
+        while (next && next.tagName !== 'H3' && next.tagName !== 'H2') {
+          next.classList.remove('section-hidden');
+          next = next.nextElementSibling;
+        }
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+
+    // --- Search functionality ---
+    var searchInput = document.getElementById('search-input');
+    var searchCount = document.getElementById('search-count');
+    var allItems = document.querySelectorAll('section li');
+
+    searchInput.addEventListener('input', function() {
+      var query = this.value.toLowerCase().trim();
+
+      if (!query) {
+        allItems.forEach(function(li) { li.style.display = ''; });
+        searchCount.style.display = 'none';
+        // Restore section headers
+        document.querySelectorAll('section h2, section h3, section hr, section p').forEach(function(el) {
+          el.style.display = '';
+        });
+        return;
+      }
+
+      var matchCount = 0;
+      allItems.forEach(function(li) {
+        if (li.textContent.toLowerCase().indexOf(query) !== -1) {
+          li.style.display = '';
+          matchCount++;
+        } else {
+          li.style.display = 'none';
+        }
+      });
+
+      // Hide section headers with no visible items
+      var sections = document.querySelectorAll('section h2, section h3');
+      sections.forEach(function(h) {
+        var next = h.nextElementSibling;
+        var hasVisible = false;
+        while (next && next.tagName !== 'H2' && next.tagName !== 'H3') {
+          if (next.tagName === 'UL') {
+            var items = next.querySelectorAll('li');
+            items.forEach(function(li) {
+              if (li.style.display !== 'none') hasVisible = true;
+            });
+          }
+          next = next.nextElementSibling;
+        }
+        h.style.display = hasVisible ? '' : 'none';
+      });
+
+      searchCount.textContent = matchCount + ' result' + (matchCount !== 1 ? 's' : '') + ' found';
+      searchCount.style.display = 'block';
+    });
+
+    // --- Resource count badges + needs-contributions badges ---
+    countryHeadings.forEach(function(h) {
+      var next = h.nextElementSibling;
+      var count = 0;
+      while (next && next.tagName !== 'H3' && next.tagName !== 'H2') {
+        if (next.tagName === 'UL') {
+          count += next.querySelectorAll('li').length;
+        }
+        next = next.nextElementSibling;
+      }
+
+      // Add resource count
+      var badge = document.createElement('span');
+      badge.className = 'resource-count';
+      badge.textContent = count;
+      h.appendChild(badge);
+
+      // Add "contributions welcome" badge for sparse sections
+      if (count < 10) {
+        var contrib = document.createElement('a');
+        contrib.className = 'needs-contributions';
+        contrib.textContent = 'Contributions welcome!';
+        contrib.href = 'https://github.com/micahchoo/awesome-digital-history-South-Asia/blob/main/CONTRIBUTING.md';
+        h.appendChild(contrib);
+      }
+    });
+
+    // --- Back to top button ---
+    var backBtn = document.getElementById('back-to-top');
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 400) {
+        backBtn.style.display = 'flex';
+      } else {
+        backBtn.style.display = 'none';
+      }
+    });
+    backBtn.addEventListener('click', function() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // --- Keyboard shortcut: Ctrl+K or Cmd+K to focus search ---
+    document.addEventListener('keydown', function(e) {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+        e.preventDefault();
+        searchInput.focus();
+      }
+    });
+  })();
+  </script>
+
   {% if site.google_analytics %}
   <script>
     (function(i, s, o, g, r, a, m) {
