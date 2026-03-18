@@ -305,6 +305,9 @@ Sources:
 * [CyArk - Bagan Heritage](https://www.cyark.org/projects/bagan) - High-resolution 3D documentation and digital preservation of Bagan's ancient Buddhist temples and pagodas, one of Southeast Asia's most significant archaeological sites with over 3,000 monuments spanning the 9th-13th centuries.
 * [Myanmar Law Library](https://myanmar-law-library.org/) - A digital repository of Myanmar's legal heritage including historical legislation, constitutional documents, and legal texts documenting the country's governance from the colonial era to the present.
 * [Southeast Asian Digital Library - Burma/Myanmar](https://sea.lib.niu.edu/node/42) - Northern Illinois University's curated digital collection of Burma/Myanmar resources including historical photographs, maps, government documents, and ephemera from the colonial and post-independence periods.
+* [DREAMSEA - Endangered Manuscripts of Southeast Asia](https://dreamsea.co/) - An open-access digital repository preserving endangered Buddhist and Islamic manuscripts from across Southeast Asia, including Myanmar palm-leaf manuscripts, hosted in partnership with the Hill Museum & Manuscript Library (HMML).
+* [The Music of Burma on Record (EAP592)](https://eap.bl.uk/project/EAP592) - A British Library Endangered Archives project that digitized approximately 6,000 rare 78rpm recordings from the 1920s-1950s of Burmese court, classical, dramatic, vocal, and folk music — the earliest aural documentation of pre-industrial Burmese musical traditions.
+* [Inya Institute Digital Archive](https://archive-inyainstitute.org/) - A Yangon-based institute's digital archive of manuscripts, books, paintings, and photographs collected during research projects across Myanmar, including Shan State monastic manuscript surveys and ethnographic materials.
 
 ---
 
