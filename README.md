@@ -91,6 +91,7 @@ Sources:
 * [National Archives of Bangladesh](http://www.nanl.gov.bd/site/page/dd1d01e1-573f-4c02-aed8-cee58667f032/) - An online archive of chronology of events, documentations, audio, video, images, media reports and eyewitness accounts of the 1971 Genocide in Bangladesh in the hands of Pakistan army.
 * [The Daily Star](https://archive.thedailystar.net/) - Newspaper from 2003.
 * [The Travelling Archive](https://www.thetravellingarchive.org/) - A grassroots field-recording project documenting folk songs, stories, and oral traditions across Bangladesh, eastern India, and the Bengali diaspora, run by singer-researcher Moushumi Bhowmik since 2003.
+* [Bangladesh Feminist Archives](https://bdfeministarchives.org/) - A Dhaka-based digital platform preserving documents, images, videos, and a visual timeline of Bangladesh's intersectional feminist movements across generations, documenting women's activism from the liberation era to the present.
 * [Liberation War Museum Digital Collection](https://www.liberationwarmuseumbd.org/page/collection) - The Liberation War Museum's digitized holdings include the A.M.A Muhith Collection of 2,907 international news items and US Congressional Records documenting the 1971 war, alongside photographs, personal effects, and wartime artifacts.
 * [USA Library of Congress - Bangladesh](https://www.loc.gov/search/?q=bangladesh&fa=access-restricted%3Afalse&st=list&c=150)
 
@@ -112,6 +113,7 @@ Sources:
 * [Nepalbhasa Manuscripts in the UK](https://www.nepalbhasamanuscript.org/) - An online archive of digitized Newar (Nepal Bhasa) manuscripts with transcription and translation, enabling the public to adopt manuscripts for digitization to help preserve this endangered script.
 * [Pahar - Nepal Topo Maps](https://pahar.in/nepal-topo-maps/) - A digital archive of historical Himalayan cartography including 57 Nepal-Tibet border maps, Sino-Nepalese Frontier Commission maps, Survey of India reports, and records from the Great Trigonometrical Survey.
 * [The Himalayan Database](https://www.himalayandatabase.com/) - A comprehensive digital archive of expedition records for all peaks in the Nepal Himalaya, compiled from Elizabeth Hawley's journalism spanning over 50 years, documenting thousands of expeditions with detailed climbing histories, routes, and outcomes.
+* [Bajracharya Document Archive](https://bajracharya.org/archive/) - A curated digital collection of materials documenting Bajracharya culture, Newar Buddhism, and the priestly caste's historical role in the Kathmandu Valley, preserving unique religious and cultural heritage of Nepal's indigenous Newar community.
 * [USA Library of Congress - Nepal](https://www.loc.gov/search/?q=nepal&fa=access-restricted%3Afalse&st=list&c=150)
 
 ### Tibet
@@ -128,6 +130,7 @@ Sources:
 * [Tibetan Oral History Archive Project (TOHAP)](https://www.loc.gov/collections/tibetan-oral-history-project/about-this-collection/) - The world's largest Tibetan oral history archive at the Library of Congress, with nearly 700 interviews documenting Tibetan social and political history, including Common Folk, Political, and Drepung Monastery collections.
 * [Tibet Museum Interactive](https://interactive.tibetmuseum.org/) - A digital museum platform with over 29,000 images organized across six categories, featuring virtual tours of Tibetan cultural sites, traveling exhibitions, and interactive galleries documenting Tibetan history, religious practices, and contemporary life under the Central Tibetan Administration.
 * [Old Tibet Photographic Archive (THUS)](https://thus.org/old-tibet-photographic-archive/) - The Tibet Heritage Fund's digitized collection of rare historical photographs of Tibet from the early 20th century, documenting architecture, daily life, religious ceremonies, and landscapes before the dramatic transformations of the mid-century.
+* [Latse Library Oral History Archive](https://www.latse.org/oral-history/) - An oral history archive initiated in 2006 documenting life stories of elderly Tibetans in exile in India and the Himalayan region, covering pre- and post-1959 Tibet, folk traditions, personal narratives, and refugee settlement experiences.
 * [USA Library of Congress - Tibet](https://www.loc.gov/search/?q=tibet&fa=access-restricted%3Afalse&st=list&c=150)
 
 ---
@@ -200,6 +203,9 @@ Sources:
 * [Institut Français de Pondichéry Digital Collections](https://digitalcollections.ifpindia.org/) - The French Institute of Pondicherry's open-access digital repository of South Indian cultural heritage including Shaiva Siddhanta manuscripts, herbarium specimens, historical photographs, maps, and ethnographic documentation spanning ecology, Indology, and social sciences.
 * [DHARMA Project - Digital Epigraphy](https://erc-dharma.github.io/) - An ERC-funded international project creating a digital corpus of South and Southeast Asian inscriptions, providing open-access editions, translations, and metadata for Hindu, Buddhist, and Jain epigraphic records from the 5th century onward.
 * [Sarai - CSDS New Media Initiative](https://sarai.net/) - South Asia's most prominent platform for critical reflection on urban space and digital culture, a programme of the Centre for the Study of Developing Societies (CSDS) in Delhi, with an extensive online archive of research publications, media projects, and readers on cities, technology, and public culture.
+* [Project Madurai](https://www.projectmadurai.org/) - A volunteer-driven digital library of over 660 ancient Tamil literary classics, freely distributing e-texts of Sangam-era poetry, Thirukkural, Silappadikaram, and other canonical Tamil works since 1998, making classical Tamil literature universally accessible.
+* [Sangam Tamil](https://sangamtamil.com/) - An interactive digital platform for exploring 2,658 verses of ancient Sangam-era Tamil poetry (c. 300 BCE-300 CE), with original Tamil text, English translations, landscape-based filters, and poet connections mapping the earliest Tamil literary canon.
+* [Dalit Social Reform Movements in Kerala (EAP292)](https://eap.bl.uk/project/EAP292) - A British Library Endangered Archives project surveying and digitizing documentary materials related to Dalit and lower-caste social reform movements in 20th-century Kerala, preserving pamphlets, photographs, and organizational records of anti-caste activism.
 
 ---
 
@@ -268,6 +274,10 @@ Sources:
 * [Sri Lanka Journals Online (SLJOL)](https://www.sljol.info/) - An open-access database of 169 Sri Lankan academic journals with over 24,000 articles across all disciplines, managed by the National Science Foundation of Sri Lanka.
 * [Aavanaham Multimedia Archive](https://aavanaham.noolaham.org/) - The multimedia arm of the Noolaham Foundation archiving photographs, ephemera, audio, and video materials related to Sri Lankan Tamil-speaking communities, complementing the print collections with over 5,000 multimedia items including images of war-affected areas and cultural events.
 * [Digital Museum of Upcountry Tamil Heritage (UCLA MEAP)](https://meap.library.ucla.edu/projects/) - A UCLA-funded project documenting over two hundred private and institutional collections of the Upcountry Tamil community, descendants of Indian laborers brought to British-owned plantations in the nineteenth century, preserving materials at risk of loss.
+* [Memory Map Sri Lanka](https://memorymap.lk/) - An archive of 320 village histories and life stories from three Sri Lankan districts, memorializing experiences of violence and conflict through community-collected narratives across ethnic lines during and after the civil war.
+* [Sri Lankan Tamil Palm-Leaf Manuscripts (EAP1260)](https://eap.bl.uk/project/EAP1260) - A British Library Endangered Archives project cataloguing and digitizing 300-500 Tamil and Sanskrit palm-leaf manuscripts from Sri Lanka's Northern and Eastern provinces, endangered by displacement and decades of armed conflict.
+* [Digitising Malay Writing in Sri Lanka (EAP609)](https://eap.bl.uk/project/EAP609) - A British Library project surveying and digitizing Malay-language manuscripts and printed books in Sri Lanka, documenting the little-known Sri Lankan Malay Muslim community's literary heritage in a critically endangered language.
+* [Ilankai Tamil Sangam](https://sangam.org/) - A US-based Sri Lankan Tamil diaspora platform hosting literary criticism, cultural essays, news analysis, and historical documentation of Tamil heritage in Sri Lanka, including coverage of events like the destruction of the Jaffna Library.
 * [USA Library of Congress - Sri Lanka](https://www.loc.gov/search/?fa=location:sri+lanka%7Caccess-restricted:false)
 
 
@@ -343,6 +353,9 @@ Sources:
 * [Afghan-web.com - Afghanistan's First Major Web Portal (1997)](https://www.afghan-web.com/) - One of the earliest comprehensive websites about Afghanistan, founded in 1997 during the Taliban era, providing news, encyclopedic content on Afghan culture, history, and encyclopedic reference material that served as a primary online resource for the Afghan diaspora.
 * [South Asia Citizens Web (SACW)](https://www.sacw.net/) - An independent South Asian citizens' initiative online since the late 1990s, serving as a platform for cross-border exchange of information, ideas, and concerns among human rights activists, scholars, and journalists across the region, with an extensive archive of commentary on communalism, secularism, and democratic rights.
 * [C-DAC GIST - Indian Language Computing (1988)](https://www.cdac.in/index.aspx?id=mlc_gist_about) - The Centre for Development of Advanced Computing's GIST (Graphics and Intelligence-based Script Technology) initiative, a milestone in Indian digital history that enabled computing in Indian languages, developed after India's 1984 supercomputer embargo, and laying the foundation for multilingual internet access across the subcontinent.
+* [RAWA.org - Afghanistan's First Feminist Website (1997)](https://web.archive.org/web/19970711094019/http://www.rawa.org/) - The Revolutionary Association of the Women of Afghanistan launched rawa.org in 1997 during the Taliban era, secretly documenting atrocities against women and becoming one of the earliest South Asian feminist websites used for global human rights advocacy.
+* [Internet Freedom Foundation (IFF)](https://internetfreedom.in/) - India's leading digital rights organization, born from the SaveTheInternet.in campaign that gathered 1.2 million signatures for net neutrality in 2015, now documenting surveillance, censorship, and data protection struggles in India's digital landscape.
+* [Digital Empowerment Foundation (DEF) Publications](https://www.defindia.org/publications/) - Publications archive from DEF (established 2002) including reports on digital inclusion, social media in South Asia, and India's internet history, documenting the digital divide and grassroots connectivity initiatives across rural India.
 
 ---
 
