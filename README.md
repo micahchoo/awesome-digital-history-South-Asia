@@ -255,6 +255,9 @@ Sources:
 * [National Archives of Maldives](https://archives.gov.mv/en/pages/about-us) - The official national archives with over 7,000,000 digital records in its Government Electronic Management System and an active public records digitalization project.
 * [Coral Stone Mosques of Maldives](https://coralstonemosques.com/) - A digital documentation project on the distinctive coral stone mosques found across the Maldivian archipelago, recording the endangered architectural heritage of historic mosques built from coral stone, lacquerwork, and carved wood.
 * [Columbia University Maldives Research Guide](https://guides.library.columbia.edu/sasia-maldives) - A curated academic guide to Maldives research resources including digital collections, historical documents, and scholarly databases maintained by Columbia University Libraries.
+* [DSAL Dhivehi Dictionary](https://dsal.uchicago.edu/dictionaries/maniku/) - Hassan Ahmed Maniku's "A Concise Etymological Vocabulary of Dhivehi Language" (2000), freely searchable online through the University of Chicago's Digital South Asia Library, preserving the etymological roots of the Maldivian national language.
+* [The Lacquer Crafts of the Maldives (Google Arts & Culture)](https://artsandculture.google.com/exhibit/3QJCgCJNbGfvJw) - An online exhibition documenting Maldivian lacquer work (liyelaa jehun) by the Department of Heritage and UNESCO's ICHCAP, with photographs, video, and documentation of this endangered traditional craft.
+* [Library of Congress Maldives Government Web Archive](https://www.loc.gov/collections/maldives-government-web-archive/about-this-collection/) - An ongoing web archive (since 2021) preserving Maldives government websites in Dhivehi and English, motivated by the climate change threat to the island nation's physical and digital records.
 * [USA Library of Congress - Maldives](https://www.loc.gov/search/?q=maldives&fa=access-restricted%3Afalse&st=list&c=150)
 
 
